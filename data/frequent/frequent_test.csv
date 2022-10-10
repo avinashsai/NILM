@@ -1,0 +1,1001 @@
+text,label
+Maximum frequent character in i j j j c c j a j j j j i ,9
+Maximum frequent character in i j i i i f i j i g i i e c i i g h i a i ,8
+Maximum frequent character in c c c e b c c c i c h d f h c e c h b c c i c c g d c ,2
+Maximum frequent character in f d h f a b f f f f f f ,5
+Maximum frequent character in g g b g c g g g a b g j d g g b g c g g g ,6
+Maximum frequent character in j j d j f h j i e j j c j ,9
+Maximum frequent character in a a j f e b a a a a a h a a a a a i a f i f d ,0
+Maximum frequent character in c c c c d h g c c i h c ,2
+Maximum frequent character in d d d d d g d h j d h d f i d d h h d d a h d c d i d ,3
+Maximum frequent character in h h h j e ,7
+Maximum frequent character in e e e e e b e e e i e j f c e b f b e ,4
+Maximum frequent character in f h f f f f a f f f c a f f f i j f g e ,5
+Maximum frequent character in h h h h j h d h h h ,7
+Maximum frequent character in c c c f c c c g c c a i f c c c c c e c f a c a c ,2
+Maximum frequent character in i f f f f h f f j f f j f b c f f j f f f f b d a e f g f ,5
+Maximum frequent character in a j a a a a a a a h c a ,0
+Maximum frequent character in j e j j j e j j j j j j j j j a c g j j c j d c b h h j h ,9
+Maximum frequent character in b b b b f j j b b ,1
+Maximum frequent character in a a g h a a i f f a a a a a a h a i a d g ,0
+Maximum frequent character in b a h g a a a j f a a f a f a a a ,0
+Maximum frequent character in a a a j j a c a f b g j e a a g a a a a a ,0
+Maximum frequent character in h e h g e e g e e e e a c c e ,4
+Maximum frequent character in d j d g d d b d d g ,3
+Maximum frequent character in d b d c a d d ,3
+Maximum frequent character in i b h i i e i i c i h j i i i g i h i ,8
+Maximum frequent character in h e d j h h h h c h h h h h f h e h h e h b h f c f h ,7
+Maximum frequent character in a a a a a a a a a a g a i a a a c e b i a h g a b a d a i ,0
+Maximum frequent character in b c j b b ,1
+Maximum frequent character in h h j h h ,7
+Maximum frequent character in a a e j b a a a c a a h a h a a a a a a ,0
+Maximum frequent character in i i a d i d i i g i i j i h f i i b h c i ,8
+Maximum frequent character in h a f d h c h h b h h i h h h i h h ,7
+Maximum frequent character in g e g f g b i g g g ,6
+Maximum frequent character in h a h i i a j h b h h b e h h h h h h ,7
+Maximum frequent character in a e e e h d e g e e e e c i b e a e e d e e j ,4
+Maximum frequent character in h d h i d h g h h h h e f h e h h h i h e d d h h h e ,7
+Maximum frequent character in j d c j a e i j j a j j j ,9
+Maximum frequent character in d d c h d d d d h d d i d c b f d d f d d c h ,3
+Maximum frequent character in c d j j j j j g j b j e i e j j j g ,9
+Maximum frequent character in c c c d c c j j h a c c c c ,2
+Maximum frequent character in c j h c c c f c i c a f c d c c g h c a c c c c f c c c ,2
+Maximum frequent character in a j j f a h j j j j j j e ,9
+Maximum frequent character in h g g f i f g e b g g b g g g g g g h g g d a c g g b g b g ,6
+Maximum frequent character in i g e h g i g g c g a a g g g f g g b f g g g g ,6
+Maximum frequent character in c c c b c c g j j c g e c c c f e c c c b i d j c c c a d ,2
+Maximum frequent character in h h h d b h g h i h f h ,7
+Maximum frequent character in h f h i i i c g f i i i e j i i i i i b i i e d i i ,8
+Maximum frequent character in b b g g b i j b j b b c b ,1
+Maximum frequent character in c a d d d d g d d f h a d g b i d d h g d d d ,3
+Maximum frequent character in f f f b j f j f f c j f f f i i f h h e f f f f a f c f ,5
+Maximum frequent character in h a d h d d d d b e d f a d d d d j a d e d d d a d d d ,3
+Maximum frequent character in c a f c c c b j f c i c c c c c c d a ,2
+Maximum frequent character in c c c c c a j c g i h ,2
+Maximum frequent character in e a d a a f e e j e e e h e a h e e e e e e ,4
+Maximum frequent character in i i h i i i i i h i i h f i g g d i e i i i g c i f d j j ,8
+Maximum frequent character in a f j c f g b c f j f g j f f f f f g f b j i f f f f f ,5
+Maximum frequent character in c c c c j c c c d h c f j c ,2
+Maximum frequent character in c f a c c c b ,2
+Maximum frequent character in j j h j j j d j j j b ,9
+Maximum frequent character in d d i a h d c d d d d g d d ,3
+Maximum frequent character in f f a f c f f j f f c ,5
+Maximum frequent character in i g g g g i i e g c g g e f g g f g c g g g g ,6
+Maximum frequent character in b b f b i ,1
+Maximum frequent character in i c c c c c c a c a c b i h c c j c d a c i c i e c ,2
+Maximum frequent character in j a e e j j b e e e e e j e h f d c e e e ,4
+Maximum frequent character in e b j b b b b b h b b g b i g i i d b ,1
+Maximum frequent character in c d g a c c a c c c c c c a h f c c j d c c ,2
+Maximum frequent character in f e f d f f a f f i g c f ,5
+Maximum frequent character in c h c i c a c c c g e c c c h a j c h c ,2
+Maximum frequent character in f f f g f f c f f i ,5
+Maximum frequent character in h h h f g e a h h h e h h i h b i h a h e a h h h i a j h h ,7
+Maximum frequent character in c a c i c c d c c b c j c c c j f ,2
+Maximum frequent character in d c h h b h h f h h c h h h h c h h h h e a j f d ,7
+Maximum frequent character in c c f h c e c c i h c c j e c c c e c c c c h c c e d a c j ,2
+Maximum frequent character in j j h b j c i j j j j ,9
+Maximum frequent character in e f e e e f d h e e e e i e e e ,4
+Maximum frequent character in b d d a j e d e d h j d h d d d d d d j i ,3
+Maximum frequent character in e h a b h i f d h i h h c h g f h h a h g h h j f h h h h ,7
+Maximum frequent character in g g f g g e g i g c g g g g i f ,6
+Maximum frequent character in g g c g g g g i g a g a g g i a a g g g g f d f g f g ,6
+Maximum frequent character in c j c c c g b c g c ,2
+Maximum frequent character in h e f e e e e ,4
+Maximum frequent character in g d e a d g d d g d d d d g d h d b d d d f d ,3
+Maximum frequent character in e f j j e j e f j j j j j d d a j j j j ,9
+Maximum frequent character in j j f j j j b j j f j j e g d e ,9
+Maximum frequent character in g g i i g h i g g g ,6
+Maximum frequent character in c j b j c i d c c c c c c c h d f ,2
+Maximum frequent character in j i f f f f a f f f f c f f h a a f f j f d c f b ,5
+Maximum frequent character in c h e e f e e e e j e f b e ,4
+Maximum frequent character in f i d i i ,8
+Maximum frequent character in e e e e h i ,4
+Maximum frequent character in e e e a e a g j c e e d e e e b e b h e c e e c i e e ,4
+Maximum frequent character in j j h j b j j j e j j ,9
+Maximum frequent character in c d c j c b b c b j c c j g j c i c j c a c c c c c f ,2
+Maximum frequent character in f g d a g g a g g g g g h h g e c g d g ,6
+Maximum frequent character in e i i i e b g e g e e e g e c e e h c e e e f e e d e b ,4
+Maximum frequent character in h f f e c i f f f f f h f f f d f f e c f f f d j ,5
+Maximum frequent character in b b b b b e b g h g g b f ,1
+Maximum frequent character in f d h c d i j d d a j d i d d d d e d d d ,3
+Maximum frequent character in g g g g e g g g g e f g g g j g g g b ,6
+Maximum frequent character in h h h h h h h c i h i d h i h b h ,7
+Maximum frequent character in i i i i i f i i c c e g i j a e i i i i h i i e i ,8
+Maximum frequent character in a a j a b i a i h h a a a a a h a a a h h a ,0
+Maximum frequent character in a h j j c j j j j j c j ,9
+Maximum frequent character in d e d f d e d ,3
+Maximum frequent character in f i g g g g g h c g b g g g g a g g g e g h g g ,6
+Maximum frequent character in g g h g g a e ,6
+Maximum frequent character in h h h h a h a i h a h j h h c h h e i b h h a ,7
+Maximum frequent character in b j h j j j j j j b g j f h j j ,9
+Maximum frequent character in c c c b c c c j a c c f f j c a c c f i e c c c c j c e ,2
+Maximum frequent character in a b a a f a a h i a a h a d a f b a a ,0
+Maximum frequent character in e f f g f f f f j c f f a b f h h ,5
+Maximum frequent character in e g g e f e a d e e e d i i e j i e e e e ,4
+Maximum frequent character in f i i g f f i f f f f f b a f f f f f f g h ,5
+Maximum frequent character in j c e c c c g j f c c c a b c c c c a ,2
+Maximum frequent character in f g d d d c e g i d d d d d d d ,3
+Maximum frequent character in f f f f f f e f g j f h f f f i f c f g b f j a d ,5
+Maximum frequent character in a g c d d d d d d d d a ,3
+Maximum frequent character in g e h e g e e e e e e i g d e e b c ,4
+Maximum frequent character in f f f f f g f f f c c f f f g f f f a f f f f a e f e a ,5
+Maximum frequent character in f h a h h h h j h h h g h ,7
+Maximum frequent character in c j j b j j j j b h h i j c i g j j j j j j ,9
+Maximum frequent character in b b b f h j b b b b b b i b h b d b j c g g b b ,1
+Maximum frequent character in e j j d a h j j j j c b j ,9
+Maximum frequent character in g d e i a h a a a a a a a d c a a g a a a a ,0
+Maximum frequent character in a h d i f d i i i i h d i f i j i i i ,8
+Maximum frequent character in i e d d e f d e d d d d d h d d d a d d j d d d a d d ,3
+Maximum frequent character in b c c b c i c d b c c f c ,2
+Maximum frequent character in j d j j j a j j g b j j j j ,9
+Maximum frequent character in c c g b g i g g h f g g g g e g ,6
+Maximum frequent character in e e e e e e e h h e e e e e i d e a a f a c f h c d g e e ,4
+Maximum frequent character in g g g j g a f g g g g d g h g ,6
+Maximum frequent character in a d b i f a f i f f f f f f f a h f f ,5
+Maximum frequent character in h h e i d h h h j ,7
+Maximum frequent character in h h h h c g h g j d h c i h h h h h h h ,7
+Maximum frequent character in e g h g a f g b a j g g g h g g i g f g g g i ,6
+Maximum frequent character in d d d d a g d a d i ,3
+Maximum frequent character in a h a a c a ,0
+Maximum frequent character in f c j d h f c f f f f f f e f h ,5
+Maximum frequent character in f a g h a i d i i i g a i i i i i ,8
+Maximum frequent character in b b a b g b b h b f b b a g b b b b f ,1
+Maximum frequent character in g e g g g e b g g h g g a g g g a a g g g g g g i d e ,6
+Maximum frequent character in f e f b f f f f f f ,5
+Maximum frequent character in d c c c j d i i c c c j j i c b c c c c ,2
+Maximum frequent character in g c h c c ,2
+Maximum frequent character in e e e e j b ,4
+Maximum frequent character in d j a d d d d d ,3
+Maximum frequent character in d d c d d d d e d d d f d d d g d i j a d c h g d d i d h d ,3
+Maximum frequent character in a a a c a a a a f d a ,0
+Maximum frequent character in e a a e a h b f a a a a a d d a f b a j a a e a a a ,0
+Maximum frequent character in c c c c c e j d c f c f c ,2
+Maximum frequent character in a a j b a a a g a a h a a f c g g a ,0
+Maximum frequent character in g a e e e e ,4
+Maximum frequent character in h b j h h a d h h h ,7
+Maximum frequent character in c g j j j d d e j j d d j j j h b j a g h j j j j ,9
+Maximum frequent character in j j i b j j g d c j j f i j j j ,9
+Maximum frequent character in e e e d h a e e j e h e ,4
+Maximum frequent character in e d d d d d d b d d d d b i c h d c d d b j b a d d ,3
+Maximum frequent character in i i i d i i i f c a i i ,8
+Maximum frequent character in e e c e j a e e c e c i e g e c e e e e c ,4
+Maximum frequent character in h h c f c f f f h f f f f j f f e f ,5
+Maximum frequent character in j j j c j c j j i j h i j a f j d j j j ,9
+Maximum frequent character in h a g j g g g g g f ,6
+Maximum frequent character in i e j i h h i g i i i i g i i i i b i c ,8
+Maximum frequent character in c j j e j i j j j j j g j i a h j a j j j e j b ,9
+Maximum frequent character in e i f d d d a d d d d c d g ,3
+Maximum frequent character in f d d a i d h b d d d d d d i d e b d d d d a c d h ,3
+Maximum frequent character in c j j g j j g j ,9
+Maximum frequent character in d d d d d g d d d j g j f d d d ,3
+Maximum frequent character in e e e e c h a e d e j ,4
+Maximum frequent character in h j f j j e j c a j j j h j j j c j a j j j j a f e j b a ,9
+Maximum frequent character in g b h i j h g h e h h h h g g h b h h h ,7
+Maximum frequent character in b a e b b e i b b d c b b c b e b h b f b b b f f ,1
+Maximum frequent character in g i i i h d i i f h i i ,8
+Maximum frequent character in e f e e e i e e g e c e e c a b e e j b d e e e e e ,4
+Maximum frequent character in i h h i h h f h e h ,7
+Maximum frequent character in c c f c c c c h e a c ,2
+Maximum frequent character in g g i g g g g g c a i g g g g j i g g g a a g g g ,6
+Maximum frequent character in i h i f i c e i i d d i i c i i d i i d i h d i ,8
+Maximum frequent character in b j g b e h d i b c g b a b b b f b b d g b b b b b d b b b ,1
+Maximum frequent character in b h f h h d h f h h h ,7
+Maximum frequent character in i j j j j j ,9
+Maximum frequent character in e e f b e i h g e i e e e e h e d g b e e d e e ,4
+Maximum frequent character in a d g d d d d j d d h d a g d j d d d e d ,3
+Maximum frequent character in c f g j j f j j h j c j j g j ,9
+Maximum frequent character in j a j e a e c j j f j a j j j j c ,9
+Maximum frequent character in e h a h h h h a h h h g e e h h g h b a b h c h h ,7
+Maximum frequent character in e d e d e e e e c e e b e g e h c d e e b g ,4
+Maximum frequent character in h h h h h h g f c h e h d ,7
+Maximum frequent character in c c h c c c a g c j e c c h c h c c e d c c i c a b d ,2
+Maximum frequent character in h i e i g c i i i i i i b c i b i i i g i ,8
+Maximum frequent character in i h i i f c i i i i b ,8
+Maximum frequent character in e g e e g j j a e e h e e e g e e e e e ,4
+Maximum frequent character in i a a a a d i a a a f i d j j a j a a a ,0
+Maximum frequent character in h c h h h h h h j c g h h h j g h i ,7
+Maximum frequent character in g b c i i g g f g b h g g j g b g g g a g g ,6
+Maximum frequent character in f h h h c h c a d h e e h h h h e ,7
+Maximum frequent character in c c c c c c c c a g c d b c j c g c c c f c ,2
+Maximum frequent character in g g e g g g g b g g e f g g b g g d g d g c f g g j g g ,6
+Maximum frequent character in b b b f b b ,1
+Maximum frequent character in g g g h g g g g g j a a c g g f g a b j g ,6
+Maximum frequent character in f b f b d f f a f ,5
+Maximum frequent character in i d g i a d j d d d d b d i d c d i d d d d d d h e ,3
+Maximum frequent character in g j f i a j e a j j j a j j j j h d j j j j i f j j ,9
+Maximum frequent character in i i i i i i j i i e i c i h i b j ,8
+Maximum frequent character in g e f g g g g i g g g a g g g g d b h g b a b a g g g ,6
+Maximum frequent character in i e g c i i c e i i i i g i i d h i b i f ,8
+Maximum frequent character in a g f f f ,5
+Maximum frequent character in f e f j a f f f c f j f f g f b c f f f f c e f j f ,5
+Maximum frequent character in h j a j c j j j j j d j a d j ,9
+Maximum frequent character in g j g j g b b b b g b a c b b b b j e b a b g b b b b g b ,1
+Maximum frequent character in g g g i a g g i a g g g g f g a j g e g ,6
+Maximum frequent character in h a a a b d a a a e i a ,0
+Maximum frequent character in i i i h j i i i i i i j i f j h i ,8
+Maximum frequent character in i i a a g i j i i d i i i i i i ,8
+Maximum frequent character in i h j f j j j g i j j e j j j h j j a i j f j j j j j ,9
+Maximum frequent character in i b b h b ,1
+Maximum frequent character in b b b b h a b b e b c f b b h b f b b j ,1
+Maximum frequent character in a a j a e ,0
+Maximum frequent character in f f f f i ,5
+Maximum frequent character in i j i i i h i i i a h i g ,8
+Maximum frequent character in f f b f f f h h f b i f f g f i f f b f f d a ,5
+Maximum frequent character in j a i h j j j j h j g j j h d ,9
+Maximum frequent character in c c g h c c c c j e h e e g a c c c c h c d c g c ,2
+Maximum frequent character in e e e e j j e b e e e f h j e a ,4
+Maximum frequent character in c b c c c f c c e ,2
+Maximum frequent character in g g b g g j g g a h g g ,6
+Maximum frequent character in i f g h f a f f f j f f ,5
+Maximum frequent character in a a a a a a h i a e a a a h ,0
+Maximum frequent character in e a e d j e e e i ,4
+Maximum frequent character in f i f g d f h h f f f g f ,5
+Maximum frequent character in a d d d d d d d d i a e d d b i b f d f d d j g e d ,3
+Maximum frequent character in h j g g g g g ,6
+Maximum frequent character in b b a h h i h h h i h h g h g b h j h h ,7
+Maximum frequent character in h a a a a j h a a a a h a a a c a a e a a a a a g b a ,0
+Maximum frequent character in a e a h a a a a b a f a a i f a ,0
+Maximum frequent character in d f j g g g g g g g f d a g g g d a a g g g ,6
+Maximum frequent character in h b b b h b i b b b b b b b b b b f e b b b b i b a ,1
+Maximum frequent character in h d h a e j h j j h h h h h h h e h h g b h a h g h c b d ,7
+Maximum frequent character in g e b b d b b b a h b ,1
+Maximum frequent character in f i f c i e f b f h f f f f i f d i f a f f ,5
+Maximum frequent character in e h e e e e e g g e e b a e e e i b e e ,4
+Maximum frequent character in h c c c c a c g b d c c c c c i h c c c h f i ,2
+Maximum frequent character in c d d d f d c e f d a d i d d d d b d d e ,3
+Maximum frequent character in a j h i j c j j a j j e g j j j j j b ,9
+Maximum frequent character in e e e d c d e e ,4
+Maximum frequent character in b i i d a d i d d d d d d b ,3
+Maximum frequent character in a a a a a a b a a ,0
+Maximum frequent character in f b e e e e g ,4
+Maximum frequent character in b g g b g d f g g h g f g b h g g g g g i d g c g g g b g ,6
+Maximum frequent character in c i c j c h c c c ,2
+Maximum frequent character in g g g g e i g a b g g g f g d h h g g e g a e ,6
+Maximum frequent character in a a b a a g a d a h h a f a a i a a a g ,0
+Maximum frequent character in j e h i j j j ,9
+Maximum frequent character in e a a a a a a a d e a d h e d g e a a j d a a c a a a g ,0
+Maximum frequent character in h h h h b e h j h h g h h h ,7
+Maximum frequent character in g g a g d b g c g g d g a g g h a g a g g c g i b ,6
+Maximum frequent character in f i b e e g e e e f e e g e e e e f e a e e j d b ,4
+Maximum frequent character in j g j e c j i f h j f j j j j i j ,9
+Maximum frequent character in a g a a a a a a a j a e a ,0
+Maximum frequent character in j j j j c c ,9
+Maximum frequent character in h d h h e h h d f h h h ,7
+Maximum frequent character in i e h e g a e e d e e b f e i e j e i e c e b e e e d e j ,4
+Maximum frequent character in i b b b b f b j b g f c b a b j b b b b h b b e b ,1
+Maximum frequent character in g i c d i i i i i j i i e i d i b i i i i h i ,8
+Maximum frequent character in f g g g g g g g g g d b b b g g g g g j g h j d f i c g g d ,6
+Maximum frequent character in j f h h h ,7
+Maximum frequent character in d d e e e e e d g e f a e d c d e e g e e f e e e e ,4
+Maximum frequent character in d d d j g h d ,3
+Maximum frequent character in g e e b e e e c e ,4
+Maximum frequent character in j h h h f g h h h a ,7
+Maximum frequent character in g g g f f f f f g f f c f f f f c f j b ,5
+Maximum frequent character in f a a e i c a a i a a ,0
+Maximum frequent character in b b d a b ,1
+Maximum frequent character in h c h i c h d h h h h d h ,7
+Maximum frequent character in i j i j f i d i i f i f g c h j i i c i f i i e i c i i i ,8
+Maximum frequent character in i i h i a i i i i d g c i e i ,8
+Maximum frequent character in h c f f f f f i f f ,5
+Maximum frequent character in f e e j e f e f e a h e e e b e a c h e e e e e e c e h a ,4
+Maximum frequent character in g b a b f b j b h b b h b h f b b b g b b ,1
+Maximum frequent character in i j j i j c a j j j j a j e j j c j ,9
+Maximum frequent character in c a d d d d d c ,3
+Maximum frequent character in j d j d d ,3
+Maximum frequent character in e i i i b i g f i i i i j i c i i i i f e b d i i a g g i ,8
+Maximum frequent character in h j f h h h ,7
+Maximum frequent character in a a g a a a g a d a g a i i a a j e g a a a g ,0
+Maximum frequent character in i b b i i ,8
+Maximum frequent character in c i i a i i j i i ,8
+Maximum frequent character in f b b c b ,1
+Maximum frequent character in c h f e c c e c c e e c c c c c c ,2
+Maximum frequent character in g g b g g a h g ,6
+Maximum frequent character in h e c j c c c c ,2
+Maximum frequent character in h h e d b h h d h h ,7
+Maximum frequent character in j a g c f i j j j i i g j j e f j i j j j j j h j j ,9
+Maximum frequent character in h h d j h j h b h i h h h h h g b c h i h h f j h h j h h g ,7
+Maximum frequent character in i b b b g j b b d b b c b a b b i i b b b j b c h b ,1
+Maximum frequent character in j g j h e j g j g j j j j j j g j f e j f e j j ,9
+Maximum frequent character in j f f j h j j g j a j g j j ,9
+Maximum frequent character in e e e e b e i c g d e ,4
+Maximum frequent character in a a d a g a d f a a a h ,0
+Maximum frequent character in b b h b a b d a b b h ,1
+Maximum frequent character in i a d a a e a a d j d g a a a a h a a a a h f j a a a e a h ,0
+Maximum frequent character in e e e a j e ,4
+Maximum frequent character in j d c c d b d d d d d j g c d j d d e e d d d d d d c c d g ,3
+Maximum frequent character in b e e e e d e e e a e b e e ,4
+Maximum frequent character in c c c c i c c f a c c c j h i c f e f b e c h d j c c c c c ,2
+Maximum frequent character in j i g b i i a i i ,8
+Maximum frequent character in i i a h b e i i g i i i i i i i ,8
+Maximum frequent character in b d d d d b d c a h d h d ,3
+Maximum frequent character in e i f i i ,8
+Maximum frequent character in j j j a d c b j j g j j j c f j j j g j j i j j h ,9
+Maximum frequent character in h j j j j b f ,9
+Maximum frequent character in f i f f f f g f i ,5
+Maximum frequent character in j a j a a d a i f a a a c c d d g a a a a e a g a e a a a a ,0
+Maximum frequent character in j j j j f i j j h j f ,9
+Maximum frequent character in g d f f d d d d a d e d g d g d a d j d d ,3
+Maximum frequent character in b f g e e e h e e e e h i j h e e e e e e a e e e ,4
+Maximum frequent character in c d g d c g c d c c c c c b c i c a f c c c c e c c e a ,2
+Maximum frequent character in d c a h f a i a a a a h a d b a a h a a a ,0
+Maximum frequent character in e a a a d g d a a b b d d f b a a a a a b a a a a c a ,0
+Maximum frequent character in h b b f b d d h i i b e b b b b b b a b b j b b h b b f b b ,1
+Maximum frequent character in f f f g f h h c a h f f f f b ,5
+Maximum frequent character in e j j j a f j j j j g j j f i j ,9
+Maximum frequent character in b b j b b b f b b b b d a c j b b b i f e ,1
+Maximum frequent character in c c e c c c c b g i ,2
+Maximum frequent character in a a b a a c e a ,0
+Maximum frequent character in b b j a a a h a g i j a a a i j a a a c e a a g a c a a ,0
+Maximum frequent character in f f f f f h f i f f i f f e a g i f h ,5
+Maximum frequent character in j c g a j c c g e b c c c c i c e c c d c ,2
+Maximum frequent character in a i i c i f h i b h i f i i i e i g i f g i i ,8
+Maximum frequent character in i i b g d d h i i i i ,8
+Maximum frequent character in i h h h j b h h h h j h e d h j ,7
+Maximum frequent character in a a a j g d c a c a a a i e a h d a a j a a b a a a ,0
+Maximum frequent character in i g h h h ,7
+Maximum frequent character in a a a h a a e a a a a g g j a j d a ,0
+Maximum frequent character in a b e h e e d e e e e ,4
+Maximum frequent character in h b e f b a c d b b b b d b c b f b b ,1
+Maximum frequent character in j g g b g ,6
+Maximum frequent character in e i e a e e e e e e a e g d e e a i d ,4
+Maximum frequent character in e e h h h h g f h h h h h h h f d h h b h h g g ,7
+Maximum frequent character in i j j j g j f j b j j j j i e b j h ,9
+Maximum frequent character in e h e c e e e e c d e a ,4
+Maximum frequent character in b b a b e ,1
+Maximum frequent character in a i b c a b f a d f a a a a a i a a h a d a a f i ,0
+Maximum frequent character in b b e b g g b j f i b b g b c b b a b b b h j b b c b b ,1
+Maximum frequent character in c a i a b d a d d d h i d d i d d a d d d d f d d d d h d d ,3
+Maximum frequent character in b b h h b d b d b j b j b b b b b ,1
+Maximum frequent character in d a a e a a a j ,0
+Maximum frequent character in c c j j c c ,2
+Maximum frequent character in f f f h f f f g h f b b f f c f g h j h f f f g d c f ,5
+Maximum frequent character in c c g c i c c b i c e c e c ,2
+Maximum frequent character in a f f f f j f j ,5
+Maximum frequent character in d b d d d d b j d b d d d a d d i h g d d i b d d j c ,3
+Maximum frequent character in j f j j j g j j ,9
+Maximum frequent character in e i i b i i i i d i i i j i a i i i d i b i ,8
+Maximum frequent character in g c h h h h h c h ,7
+Maximum frequent character in j d e d d d d e i ,3
+Maximum frequent character in i e i g i a i i ,8
+Maximum frequent character in i i j i h i i g b i j h i d i i j i g i i g i i ,8
+Maximum frequent character in d d f j d d d c d d f d d e c ,3
+Maximum frequent character in d e c d g d f j d d d d d e a d d i b d d d j ,3
+Maximum frequent character in h h a a a a a a a a c d a e a c d j a ,0
+Maximum frequent character in b f b e b b b ,1
+Maximum frequent character in e e e e f j e h c e g e e j e h b ,4
+Maximum frequent character in d d i d d c ,3
+Maximum frequent character in i c d i c f g c c g j c c c c b c c c c ,2
+Maximum frequent character in j j j h j j j j b i ,9
+Maximum frequent character in d d g j d d ,3
+Maximum frequent character in d b h d d h c d d d d j f d d c d d d g d d d d c f ,3
+Maximum frequent character in h g c c a d c c c c ,2
+Maximum frequent character in j j c j j j d j a j j c j j ,9
+Maximum frequent character in b c b b f b g b c b b b b b a b b b a b f b b ,1
+Maximum frequent character in b f b g b b b b h h i i i b i g b b b b b a b b c a j ,1
+Maximum frequent character in j j f j j ,9
+Maximum frequent character in b c b c b b i g b ,1
+Maximum frequent character in g d d d g c d g d d j d d d c d d c ,3
+Maximum frequent character in i h h h g h h h h d i h h e h h e e ,7
+Maximum frequent character in g g d g b g g c g g j j a g d f g g c b g j g ,6
+Maximum frequent character in d i j j d d d d c ,3
+Maximum frequent character in b a j c a f a a a b a a ,0
+Maximum frequent character in f c f c f c c f f e j f f d b f f e f h c f f f f f f e ,5
+Maximum frequent character in j d f d d d f d d j c h h d d e d j d e d ,3
+Maximum frequent character in d b b b b b b b h i b e b b d f c f h d b b b i ,1
+Maximum frequent character in i c i b f i i i j d i i i i i e i i f f i i i f d i ,8
+Maximum frequent character in f c a f f f f f f f f c f f f g f f j i c f b ,5
+Maximum frequent character in j j j j h j j j j g j d h j j f h b g a j j e j ,9
+Maximum frequent character in f f b b f e f f e h f f f f i c f f f c f i ,5
+Maximum frequent character in e e e a e i i g e e e e b e i e h e a e j e g f e e e b b ,4
+Maximum frequent character in i a e d a f g a f a c a a a a a a a a a j a a j j j i h a ,0
+Maximum frequent character in c h h b c h h i h h f b h h g h h h h f a b h ,7
+Maximum frequent character in h h h h j h d j e h h d a ,7
+Maximum frequent character in b c c c b c h c d c c j c a c c i b c e g ,2
+Maximum frequent character in f c c c h g c c c f i c a c c g b c i ,2
+Maximum frequent character in f f d j j e f a a g f f f f f c f f f f f f f a d c f j c f ,5
+Maximum frequent character in f g a e g i h b a a a a a a f c a a a b a ,0
+Maximum frequent character in a a a a a a f a a a a h c a d j j f d ,0
+Maximum frequent character in b b b b b d g f b b b i b b b f i c b b e b c a b b d i b b ,1
+Maximum frequent character in j d b d d h d d e d d d d d d d d j d f d d g b h d h f ,3
+Maximum frequent character in i j d i b a i i i ,8
+Maximum frequent character in e e e c e e e c a e e a g d e e e e e c a j e h i e ,4
+Maximum frequent character in g d d j b g g g g g j g i d g h g g g g g h g ,6
+Maximum frequent character in b b b c b b b i b b b h g b a b e g h j f b b j b ,1
+Maximum frequent character in j g f g g ,6
+Maximum frequent character in a g d f b a d d d b a h d d d d b d d ,3
+Maximum frequent character in b e g b d g a g g g g f f g e g g j g g g g i ,6
+Maximum frequent character in a g g f g a f h g g i f g g d g g g g g g g g a ,6
+Maximum frequent character in a a c a b a a d e h a a i a g ,0
+Maximum frequent character in j j e e e h j e b e e e e h g e a e h e i g e e e e e b ,4
+Maximum frequent character in g g b g a g i j g g g h g c g g g c ,6
+Maximum frequent character in i e i i g i h i i e i g i i f h j ,8
+Maximum frequent character in i i c i i i i g i i g i i i i i f g i a i a c b h i g i e ,8
+Maximum frequent character in d j d d h d ,3
+Maximum frequent character in c d f f h f h h i f f f f b f f i f f f f f f e f i j f f d ,5
+Maximum frequent character in d j j f j j f h j j j j e j j h j g h c d j j ,9
+Maximum frequent character in e e a e f e i ,4
+Maximum frequent character in b b b c j c c c c c c j c a ,2
+Maximum frequent character in b e b b a b b d f b f b b i ,1
+Maximum frequent character in d b b i d d d b b b b b b c b b c b b b i j b b b a b a h b ,1
+Maximum frequent character in c c c j c c i d c b e ,2
+Maximum frequent character in c j b b b b a b ,1
+Maximum frequent character in h g g i d h g g h g i g g g g j g j ,6
+Maximum frequent character in g i g i f i a i i i i i h i f i i f f h i i i i f i f h i ,8
+Maximum frequent character in d d h d h d j c d ,3
+Maximum frequent character in h b h i h ,7
+Maximum frequent character in e e i e e e e e e e e e e e g b e b i h j e d a e ,4
+Maximum frequent character in g g j d g g a g g g h g g f g g g g a g j h g g c g h c ,6
+Maximum frequent character in i j i i i ,8
+Maximum frequent character in j d b b b b b b e f c i h c h b b a a b b b b b b b h g b c ,1
+Maximum frequent character in d e e e b e e e e c e j e ,4
+Maximum frequent character in i f f i f f ,5
+Maximum frequent character in j d f e f i i f g j j j j j j h g j e j f j f j j j j i j ,9
+Maximum frequent character in b b b b f b b a h j b b b b b b d c h a h b a b ,1
+Maximum frequent character in a a a b a i a a e ,0
+Maximum frequent character in j i j j f j b j j j j b f j g j e j j b e j ,9
+Maximum frequent character in f f h f f c f f c f f g f b ,5
+Maximum frequent character in c c c c c c j c d c c c e ,2
+Maximum frequent character in c c c c j ,2
+Maximum frequent character in b b b b d b h b b b b h b g h c b a b c b g ,1
+Maximum frequent character in e j i i i c e c j i h i i i i i ,8
+Maximum frequent character in c a e i h a e g j g g b g g g g g g g ,6
+Maximum frequent character in b g b b c g g i g g e a g g g g d g ,6
+Maximum frequent character in b g b b b b a g b b b e ,1
+Maximum frequent character in j i j j j a j a j j j j j d d i ,9
+Maximum frequent character in e e e c c e ,4
+Maximum frequent character in b a b b b g ,1
+Maximum frequent character in h h h h b g i h f h h h g h ,7
+Maximum frequent character in g g g a f j g g g g i c i ,6
+Maximum frequent character in h h c a e i f c c c c c c c c h c c h b c d c ,2
+Maximum frequent character in a d d e d e i d d d f d e f d d d d d g b d d d f h d d ,3
+Maximum frequent character in j g g g g g e g g j f g i j b ,6
+Maximum frequent character in i d h i h h h h h a h h c h b h h a a h h h h f h a f j b b ,7
+Maximum frequent character in i g i e i i i i i i h i i j ,8
+Maximum frequent character in e h e e d i e e g e b e ,4
+Maximum frequent character in h j j j g j a ,9
+Maximum frequent character in b c c a c d c c ,2
+Maximum frequent character in e d i d a d a d d b d d j d d ,3
+Maximum frequent character in j j e d e a j j j j h g j c j f j j ,9
+Maximum frequent character in e e h i e f e i e e b b e e d e b j e e ,4
+Maximum frequent character in d i d d h f f d g d d i d d h b d a g d c d d d c d d d d d ,3
+Maximum frequent character in h h h h h i c h d g h h a ,7
+Maximum frequent character in j i i g d i i a i e i i b i c i ,8
+Maximum frequent character in a d a g f a b a a a ,0
+Maximum frequent character in e b e i a e e ,4
+Maximum frequent character in c j c c c c a c a c h a c j c d c c c b e e c j e c h ,2
+Maximum frequent character in i i i i i i h i h d a i g i d c h i ,8
+Maximum frequent character in a a a a d a b g a a a d e a a j a d j a a b a a ,0
+Maximum frequent character in g j g e g g f c e g g g g g g f a d g g g g ,6
+Maximum frequent character in f c f f d f f f ,5
+Maximum frequent character in d d d d b f d b e d d d d d a d e f c e ,3
+Maximum frequent character in h e h h e h h i ,7
+Maximum frequent character in i i i j i i ,8
+Maximum frequent character in i g g g g g g g ,6
+Maximum frequent character in b f j b g g b c b b b g b f c e g b b b b b h b ,1
+Maximum frequent character in d d g b d h e d e d a d d d ,3
+Maximum frequent character in g g g g f i f f f f j j c f f f f h h f d f b f f f f ,5
+Maximum frequent character in c h h h h h h h d g b ,7
+Maximum frequent character in c g c g j c c c ,2
+Maximum frequent character in d a d f d d d e d d i d c d b f d j d d h d e i d d d d g ,3
+Maximum frequent character in a i a h j a a b a a h a h a a a ,0
+Maximum frequent character in e a i e a a a i a b f a a a a f b f a a j f a a a a ,0
+Maximum frequent character in d a d c d d d d d d b i d d h d a a d ,3
+Maximum frequent character in g g c c g g g g g g e f a j g j g c d g d i g g e i g g ,6
+Maximum frequent character in e e e d e e e e e g d a e a e e b h e e e e ,4
+Maximum frequent character in a h a d a g f i i a a b a a a a e a a a a h c a a ,0
+Maximum frequent character in d a i d d ,3
+Maximum frequent character in h f i j i f g f f f i f f f f g b h c f h f g f f f f ,5
+Maximum frequent character in h c e e e e e c ,4
+Maximum frequent character in c c c c c c f h a b c f c f c c i c g c c b e ,2
+Maximum frequent character in h h b h g e c h h h h b h h h b d ,7
+Maximum frequent character in b a e f f f b f f f f f g e f c f f f f ,5
+Maximum frequent character in h g g g g g ,6
+Maximum frequent character in i i i i j i j f ,8
+Maximum frequent character in f c i j j j b j j f j a j j f j i g j i j j j j j f h j i ,9
+Maximum frequent character in g a f g d g g a g g b g g h ,6
+Maximum frequent character in c c d d c c f c a g g c c c c c e i j c h c d c c c b ,2
+Maximum frequent character in i g g f g e g g i g g j f g g g g g f d j h g g i g ,6
+Maximum frequent character in b b b b e b b a b j b b b a b j ,1
+Maximum frequent character in j d d d g d h d d d d d h d h j e ,3
+Maximum frequent character in g d g e g i g g ,6
+Maximum frequent character in d d d h e j d i d ,3
+Maximum frequent character in g g e c i h g g g g ,6
+Maximum frequent character in b a b d d b b c b b b b ,1
+Maximum frequent character in h h i h h h h h h a h b h ,7
+Maximum frequent character in e e e e e c h e b g g ,4
+Maximum frequent character in b b b c b c ,1
+Maximum frequent character in j b g f f i e h f f f f f f f f j ,5
+Maximum frequent character in h a e e d e c e d e b j f e e e e e c ,4
+Maximum frequent character in f f f f i d f h f f h b a b f ,5
+Maximum frequent character in g g g h g g j b h g g g g a g e f f ,6
+Maximum frequent character in e i e e h e e e a h e e e a e c i e e j h e e d d c e e e ,4
+Maximum frequent character in h c b a b b b d h b e b c a b b b c g c b b b b b b b ,1
+Maximum frequent character in c c c c c j c h c c d c g c c c a d i b c c j c d f ,2
+Maximum frequent character in b b a h h b b b b f b j d j i a b b f b b b b ,1
+Maximum frequent character in b c i i e e j e e e f e b e e j e e g ,4
+Maximum frequent character in g f f f g e f f f c f f f a h ,5
+Maximum frequent character in j a j c h a f j j j j c b j j j i j j h b ,9
+Maximum frequent character in h h h f h c h g b b h h c h h h h h h g g h b e b ,7
+Maximum frequent character in g f g d g i g g f g ,6
+Maximum frequent character in b a a d h a a ,0
+Maximum frequent character in h h h h h a h j h c a e a h h h h h g h i d h d d h b ,7
+Maximum frequent character in e e e e d e h e j e a e c a b e c e b f e e e e e e ,4
+Maximum frequent character in a c e a c d a a a e h b a i a a a g a a i a ,0
+Maximum frequent character in a a i f a a a a a a a j a a f b a j a f a d a a b a e f ,0
+Maximum frequent character in a g g c d a a d g g i g h g f g g g c g g ,6
+Maximum frequent character in a a a c d a c c d h a a a i d a a ,0
+Maximum frequent character in d d d a c i d c j i d a d d j d d d j d d d j c ,3
+Maximum frequent character in e e d e h g i e e f e e b ,4
+Maximum frequent character in a d e h h b a h d h h h h ,7
+Maximum frequent character in f j f c f f f f f f h ,5
+Maximum frequent character in g b b b a b b d b b b e f j d b f b b e h ,1
+Maximum frequent character in h g a h f h h i h h ,7
+Maximum frequent character in h i i g j g h g g g g g g e g g g e g a i ,6
+Maximum frequent character in c c i c c c f b ,2
+Maximum frequent character in d d d j h d j ,3
+Maximum frequent character in b b i b b b b b b b a b d b g g b b c b b ,1
+Maximum frequent character in h h c h h e h h h h f e h h f b ,7
+Maximum frequent character in e a e c e e e ,4
+Maximum frequent character in c c c c b c c g a d c c c h a e e c c c g c c e ,2
+Maximum frequent character in c g c b f b b b b b i b b e ,1
+Maximum frequent character in c b c c a j c c c d f c c c a j ,2
+Maximum frequent character in f j j f j f j c j c b j a j j j c j j j a j j b i f j c j j ,9
+Maximum frequent character in e i j i i ,8
+Maximum frequent character in g d j g g d g i g g g g g a g g g g h ,6
+Maximum frequent character in f i i d h i c j i i h j i i i a f j h i i b i i i e i i i ,8
+Maximum frequent character in i h b d d j g d f d d b d d i a g d d i d j d d d d e d d ,3
+Maximum frequent character in i i i b e i f i i b i i i b i i e i b i f i i i b j a i b c ,8
+Maximum frequent character in d a b f a a a j a j a a a a ,0
+Maximum frequent character in a g g g d g h g g c f g j g g e g f g f ,6
+Maximum frequent character in e a e j e e e i e b j e ,4
+Maximum frequent character in h j h j j j j g ,9
+Maximum frequent character in j j j f e j a b d j j ,9
+Maximum frequent character in a a a a f b a a g a a i b a e a a a ,0
+Maximum frequent character in a f b h b h b b b i b b g a f b b b b j b ,1
+Maximum frequent character in d i b h d d e d h d d d d f d d e ,3
+Maximum frequent character in i c e i b i h j i c i i i i c d i ,8
+Maximum frequent character in h h h h j a h c h d a h j c h g j b h d d d h b h h h h h ,7
+Maximum frequent character in i i i d h i i i c j e b h a i i i i i i g i i e g ,8
+Maximum frequent character in f f b f j f h f b f f f j f i j h c f f f f f h ,5
+Maximum frequent character in i h i b i i e i i a ,8
+Maximum frequent character in i c c d c c c c c c c c ,2
+Maximum frequent character in c b d i h i i i b a i h i i i i i d g d i i i i h h a i ,8
+Maximum frequent character in a d d f j d d f b d d h g h j c d d d d d d ,3
+Maximum frequent character in g c a g g f g ,6
+Maximum frequent character in j b d d e d d g d d d i d b d f ,3
+Maximum frequent character in e e c e e b e e e e h j e j h e i ,4
+Maximum frequent character in i i i d d a i g i i a i i i i i i e i b h i i i g b ,8
+Maximum frequent character in j a j a j j d j j j d a ,9
+Maximum frequent character in e i e e d e e d e e e i i e j g e h e e ,4
+Maximum frequent character in a a j a e i a a ,0
+Maximum frequent character in h h j h j a h h j h h e c h ,7
+Maximum frequent character in d j j d i d c d f f d d d g d d d d d b b i c ,3
+Maximum frequent character in c f c c c c c c c e g g c g b a i c ,2
+Maximum frequent character in f h b d b b a b b b b b i d f b b ,1
+Maximum frequent character in e e c g c g g g a g g g g g g f e g g e ,6
+Maximum frequent character in f f f a f f j f f f f f e h c e c j j b f f f d h f f a i ,5
+Maximum frequent character in b i b b c b h b h b b e b b b g a b i b ,1
+Maximum frequent character in e a j c g c c g c e h c c j d c i c c c h c c c j c h c c c ,2
+Maximum frequent character in i h e h h h j i c j h h h ,7
+Maximum frequent character in g g h h h h h a h h c b ,7
+Maximum frequent character in f d c b e b b g b i b b e b a b b ,1
+Maximum frequent character in d a e a a f a a a a a a g g a j ,0
+Maximum frequent character in c f j f f f f b f f e a ,5
+Maximum frequent character in i i a i e ,8
+Maximum frequent character in j c j h h d h h h h a h h h h h h i b h f c ,7
+Maximum frequent character in i i i i a c i i i d i i e i i i c i i e g f i c a j i g b ,8
+Maximum frequent character in d f j e e j e h e e e g e c e g g f e j e e h e e e h e e ,4
+Maximum frequent character in g g c g e g g i c ,6
+Maximum frequent character in d d f c d d i d d d d i d d c h d h b e d d d h c b d ,3
+Maximum frequent character in b b b b g c g ,1
+Maximum frequent character in c b f f f c f f i f f a f f f d f c ,5
+Maximum frequent character in e g g f f f f f f f b d f i c i f ,5
+Maximum frequent character in d g d d d a d ,3
+Maximum frequent character in i i d i a i i a a f h i i i j h i i i d j g c i i e i ,8
+Maximum frequent character in j b j j j j b d j j f g j h j ,9
+Maximum frequent character in i e a i f i i i i c i h i ,8
+Maximum frequent character in b a a a a c d ,0
+Maximum frequent character in i e d e e f h g e e e e e h g f e e e e e e c e b e c ,4
+Maximum frequent character in f f f f f b f h j g g ,5
+Maximum frequent character in e b e d c e a e h e e e e e e j f b b e b ,4
+Maximum frequent character in b e e e g e e e f c e e e i d e i h g e c e i ,4
+Maximum frequent character in g g g g e h g e g g ,6
+Maximum frequent character in g g j a g d c e g g g g ,6
+Maximum frequent character in f f f f f f f d ,5
+Maximum frequent character in d i d j j j j j a g a j j j j b i j j j b h i j j j j h ,9
+Maximum frequent character in i g g e g g g e g c g a g g d ,6
+Maximum frequent character in i j j e j j ,9
+Maximum frequent character in j d d d d b j e e b f d d b d d d d f d g c d ,3
+Maximum frequent character in g g g b g f g g g a g g j g i g h b g g g g g c b j g g g ,6
+Maximum frequent character in h g g a g d i g g g g g j g g j i ,6
+Maximum frequent character in f a f e c f g d f c f f b f f f c a f ,5
+Maximum frequent character in b b b b h d b b b b e f j g h b d j g b e b b b h b j b b b ,1
+Maximum frequent character in d d d d d d a d a ,3
+Maximum frequent character in d a i a a e a a a a g ,0
+Maximum frequent character in f i i g i d i i f i i i j i e h i g i d i f i i e i i ,8
+Maximum frequent character in g j j j j h i a j i d f j j j j j d j c j j g j j ,9
+Maximum frequent character in e e e e e e c g e b e f a c e a e e ,4
+Maximum frequent character in h h h a f h h h h c h h h a i h ,7
+Maximum frequent character in e j e e j h e d e b a e d e e e h e e ,4
+Maximum frequent character in h h h h i h a f h j b b h h h i i h e d h d h h b h h ,7
+Maximum frequent character in g e j e a e e e g d e i e e e e b e e e e e g e e e f g ,4
+Maximum frequent character in f f g i f c f ,5
+Maximum frequent character in h h j h i h j h h f g h h h g b h h c h g h h h d h ,7
+Maximum frequent character in f i i d i f d d c i i i i i c i ,8
+Maximum frequent character in c b j j c e c g b c c c c j j c c c j c ,2
+Maximum frequent character in f g b g i g g a j e g g g g c g g g g g e j g f b e e ,6
+Maximum frequent character in h f h f f f f c f g f ,5
+Maximum frequent character in h c d a c c c i b c f c c h c g c c i c c c c c j c ,2
+Maximum frequent character in d d d d c d c e ,3
+Maximum frequent character in c g b g b g g g g d a c g g f g h c g g d ,6
+Maximum frequent character in a a j c a a a a g j ,0
+Maximum frequent character in j j b j j a a c e j j j a j g d j j j i b j j j c j j e ,9
+Maximum frequent character in i e e e h e i ,4
+Maximum frequent character in h i h f h h h h h h f i a j h h h a h h i j h j e h h ,7
+Maximum frequent character in g g g e g g e b g g c ,6
+Maximum frequent character in i i i a i i j i i g c c i i i i i i c g c ,8
+Maximum frequent character in f f f d h h f f ,5
+Maximum frequent character in f a f f f f h ,5
+Maximum frequent character in g h h f e i h e h h h f h j h h ,7
+Maximum frequent character in g i i g i i d i i e d h i i g i i c i f i i i e i j ,8
+Maximum frequent character in f f d f c c f f f f d f j j b h c f i f j f b e f f f f f f ,5
+Maximum frequent character in j e j j j j c c f j j j a ,9
+Maximum frequent character in c b f a c e c h c c c f c e c c j ,2
+Maximum frequent character in c c c e c i c c d j i e c ,2
+Maximum frequent character in e e b e e e g g e g b e e i h e ,4
+Maximum frequent character in e e e f e f e h e b e h ,4
+Maximum frequent character in c c c g c h c c c c i c j c j c a c a e c i c b e ,2
+Maximum frequent character in b b e c b b e b b d b b c b h e b b e b b b c b b b b b g i ,1
+Maximum frequent character in d f f f d ,5
+Maximum frequent character in j j j g c j d j a j h j j j j j b j b j ,9
+Maximum frequent character in g h h a a a e b a j j j e a a a a i a b a j a a a a ,0
+Maximum frequent character in j g g e g g g g g j g g e g i h d i ,6
+Maximum frequent character in e e e b e e e e f h d e i d ,4
+Maximum frequent character in f f h f f f g f f f g f f f d g f h f f b f f i a f f i f ,5
+Maximum frequent character in j j j f e e e j h j j j j j i f ,9
+Maximum frequent character in j b h b b b h b h b ,1
+Maximum frequent character in j j j j h h c j j j i j a f j j b j j f e e j i b ,9
+Maximum frequent character in b j h j j j d j b ,9
+Maximum frequent character in e h h i h f h ,7
+Maximum frequent character in b h h h b h b d h c d h f h d h c h h h e ,7
+Maximum frequent character in b g b b c h b ,1
+Maximum frequent character in b c c a j b b i b b d b b b b b b ,1
+Maximum frequent character in g g g j g g ,6
+Maximum frequent character in c d f f b d a f i f f f f f f c f i f g f e f f a ,5
+Maximum frequent character in e e i f b i h h i j i g i i i i i i i i i e f b b i i i ,8
+Maximum frequent character in b j j j b b a b g b b b d i f b b b d a b b j g b e f b b b ,1
+Maximum frequent character in b b b b e b b c b h a i ,1
+Maximum frequent character in g a b a h a a b a a a ,0
+Maximum frequent character in f c j e f f f c f f f f f ,5
+Maximum frequent character in j b d j g j j ,9
+Maximum frequent character in h h h h i h f h d a ,7
+Maximum frequent character in f d c f g f f f f f j f ,5
+Maximum frequent character in d d g d g e g d j g d d d ,3
+Maximum frequent character in b e h h e e e e j e e ,4
+Maximum frequent character in f e c a g e e e e e ,4
+Maximum frequent character in j j a j j j j f h f j j j g j a b j g j c ,9
+Maximum frequent character in e a a e e ,4
+Maximum frequent character in h h h h g h e i a h h h h j h j h h e i h d h h ,7
+Maximum frequent character in a a a b a a a f a h g a i i a a a a f h i e a j ,0
+Maximum frequent character in e f d e e ,4
+Maximum frequent character in a i j b d a a d a a h a a a ,0
+Maximum frequent character in i i b h i i a i a i d f i e j i i ,8
+Maximum frequent character in j a j c c j j j f e j ,9
+Maximum frequent character in g g d d g g b g j g a ,6
+Maximum frequent character in d b e f e e g e e e e b e i a e e ,4
+Maximum frequent character in d b g d j g g d g g d g i d h a g c i g f g g g g g g ,6
+Maximum frequent character in g i e j g j h d j j j j j j j e j j j j j j a a a ,9
+Maximum frequent character in h h h d a h h h b j c a h ,7
+Maximum frequent character in g h h h h h b g h j h h a ,7
+Maximum frequent character in j j i j j h j j i c j j a j j f j a j a c a d j j i c j j ,9
+Maximum frequent character in i i i i h j i i g f i i d d i i d f b b i i ,8
+Maximum frequent character in d d d d d d d d e d i ,3
+Maximum frequent character in f h c j f i i f f f f b c f a f d f f f c ,5
+Maximum frequent character in d d d d d e d d a i f d a e d d h d d d b f j d ,3
+Maximum frequent character in a a j a a c b a a a j g a a a e a a a a a a g h i e ,0
+Maximum frequent character in f f a j f f f f f b f j a f c f ,5
+Maximum frequent character in f f g f d f ,5
+Maximum frequent character in b d d d h d d ,3
+Maximum frequent character in c b c c c c c c b b d c c b e ,2
+Maximum frequent character in j b b j j j b j j a j b j j j h h a j g ,9
+Maximum frequent character in i g b b d b b b b b f h b b h b b b j b ,1
+Maximum frequent character in c c c c c c f c g c e g h c ,2
+Maximum frequent character in a g c a f a b i a a e a h a g a a a a a ,0
+Maximum frequent character in b b h b j b a b b h b i b d a e b b ,1
+Maximum frequent character in f i a j f f f f f i f c d f a ,5
+Maximum frequent character in i i i d i i i i a a i j c i i i d i d i j d i f e ,8
+Maximum frequent character in g j i j j j i d j j j e j j j h j j j j h i f j ,9
+Maximum frequent character in h b d a b b b b b b e b c b b ,1
+Maximum frequent character in b b c b c b b c f c b a b b e b b b ,1
+Maximum frequent character in i a c d d h h b d d d d d j d d i d d d b d d d d d c d j ,3
+Maximum frequent character in h d d b d d c h d d d b d d b d e d d i g a e a d d ,3
+Maximum frequent character in h h d h f h ,7
+Maximum frequent character in c i i i d i g i ,8
+Maximum frequent character in i i i i b i i j c e i b i e f b i b b d i g i i i i i ,8
+Maximum frequent character in h a h h j h h h h h b h ,7
+Maximum frequent character in b b b b b h b c j b b e b f ,1
+Maximum frequent character in b h b b b b b b d b b d b b b b e a b b c d b b h i e ,1
+Maximum frequent character in e d e e e e e f f e d e h e e e ,4
+Maximum frequent character in c a i i i f i i i ,8
+Maximum frequent character in c c c c c c c c ,2
+Maximum frequent character in i e i f i b j a i i i h i i i i h ,8
+Maximum frequent character in h c c c e ,2
+Maximum frequent character in j b f i j j c j j ,9
+Maximum frequent character in h j j f j j f j j a j g j j j j j g c i j b j j h j i ,9
+Maximum frequent character in c d c c c i c c c h c b e ,2
+Maximum frequent character in a d g g h b c f g g g b g g g g j g i g g ,6
+Maximum frequent character in a f a a j a a d a ,0
+Maximum frequent character in a a b a a a a i a a i d c a a g ,0
+Maximum frequent character in a d a a a a f a c a j ,0
+Maximum frequent character in f d d d d d b g e j h d d d d d f d j j d ,3
+Maximum frequent character in a a a a a j i a a j a a h a ,0
+Maximum frequent character in j j j j b h j j j j j i j h h i j j c j d j f ,9
+Maximum frequent character in b b d a b d b b ,1
+Maximum frequent character in e f e e e e ,4
+Maximum frequent character in c h h j h h h f d h ,7
+Maximum frequent character in d d e j a d d e d d j h b a d d j d d d d d d d d a f b e ,3
+Maximum frequent character in h b h h d h h ,7
+Maximum frequent character in c a c f c f g b c a c h c c i c g e g c c c g c c a c c ,2
+Maximum frequent character in a d a a a i ,0
+Maximum frequent character in b d d b d h d d d j f ,3
+Maximum frequent character in f f f d i b f a c f j f f f f f b i f i f g f h f b f ,5
+Maximum frequent character in f c d a f f f c f g f b f f f f f e d f f f f f d ,5
+Maximum frequent character in f f g f i f f h f d f f f g f b c f f ,5
+Maximum frequent character in h d c i i i f i i i i i i i j c i g i b g d i ,8
+Maximum frequent character in j i i i b i a i b ,8
+Maximum frequent character in e a i j i i i c d j e i i i i i a i j j i ,8
+Maximum frequent character in g j g c g g g g i d g d g g g h g g e d g b b i ,6
+Maximum frequent character in e c c c c c c c c h b e c c a h ,2
+Maximum frequent character in f c h f h f f i f f e d f d f a f d f f f f f f f f a c ,5
+Maximum frequent character in f f i d i i i f i i i i i h e g i a i i ,8
+Maximum frequent character in d g g g j g e a g b g g ,6
+Maximum frequent character in g g f g c g h g ,6
+Maximum frequent character in d i i i a i ,8
+Maximum frequent character in g e h e b e e e h e b e h j e e d e ,4
+Maximum frequent character in g g f g g g i g a ,6
+Maximum frequent character in c a b b j b b a b d b b d ,1
+Maximum frequent character in h g a c a c c c g h i c c f g f c e c c c c c c c a ,2
+Maximum frequent character in j e g g g g g g c h g g i c c h g a g g g g g a g g ,6
+Maximum frequent character in e i i d i i j f a i i i a b i i i a g d i i i i c i ,8
+Maximum frequent character in i i i i i c ,8
+Maximum frequent character in i i d j i e i i a i h b a i b g h i i i i ,8
+Maximum frequent character in h h h f h j h f h h d d ,7
+Maximum frequent character in j j g j i b f j j j j b j j j j j i g h i ,9
+Maximum frequent character in h h g h c h h c j j h d a h h d h h e h g ,7
+Maximum frequent character in e h h a d i f h h h a i h h a h h a h f h h h j h h h a i h ,7
+Maximum frequent character in j h j f j j j b j j j j a a a a c j j b j g ,9
+Maximum frequent character in h h h i h b c h ,7
+Maximum frequent character in g f c c i c h b c c g c c a a c c c c c g c a g f ,2
+Maximum frequent character in e a a a g a a a c j h a a a h d a e a a a i i c a g c ,0
+Maximum frequent character in j a a b a i a a a a i j a i a ,0
+Maximum frequent character in h d d d d d g c d g d d d g a j d f d c f d d d d d c b d g ,3
+Maximum frequent character in c e c e a h c f c c i f c h c c c e c ,2
+Maximum frequent character in d i g j h h h h h h h a c h b h b e h j h d g h h ,7
+Maximum frequent character in j d b b b b b j ,1
+Maximum frequent character in d j d d i d c g f d i c d a d d d c d d ,3
+Maximum frequent character in b b b b j b h h h b b b ,1
+Maximum frequent character in d b b b b d b b d b b j g ,1
+Maximum frequent character in f d g c c c c j c c c i c e c ,2
+Maximum frequent character in e e f d e e e i e c f ,4
+Maximum frequent character in j f i e f c f f d f d f f f ,5
+Maximum frequent character in c e g c c i c c c c i d i c ,2
+Maximum frequent character in f j c j j j ,9
+Maximum frequent character in f f f j d f f a ,5
+Maximum frequent character in f i j i b i c a i i i i ,8
+Maximum frequent character in d j j c j ,9
+Maximum frequent character in f f f h f f f c f j d a e f e f d f f f f g ,5
+Maximum frequent character in c c c d c f ,2
+Maximum frequent character in e h e a e d e e e e h g e e b e e e e e c ,4
+Maximum frequent character in i d d d d f i d g ,3
+Maximum frequent character in b i i b j b b d b b ,1
+Maximum frequent character in j b j g j j g j i j j j g c ,9
+Maximum frequent character in f i f f f a j f f g f e ,5
+Maximum frequent character in a e c c a d c c i g b b c c c c g c a c c e c ,2
+Maximum frequent character in b j g g g g ,6
+Maximum frequent character in f f f f f f i g i h f f f a e f ,5
+Maximum frequent character in b e d e i e e a g a e e b a g e h e e c e e e e ,4
+Maximum frequent character in b h b b b d b b b j b i c b a i b ,1
+Maximum frequent character in e e e c b e e e j e e e e e e i e e e e e i a f j j ,4
+Maximum frequent character in e a a a j f i a a ,0
+Maximum frequent character in b i c b b b b b b e g d h ,1
+Maximum frequent character in b b b b b c b c b b b b e b g b g b d b i b ,1
+Maximum frequent character in j b e b b e b g b b b b g ,1
+Maximum frequent character in j f d f f f f j b f ,5
+Maximum frequent character in d g i g g g b h j g h g f g g g g c c g g f h e g g g ,6
+Maximum frequent character in g g d g j g a ,6
+Maximum frequent character in c e e e i d c a e e e a e e e e i d f i e e i e e e e ,4
+Maximum frequent character in f f f f f f a d j ,5
+Maximum frequent character in b d a b b i b b b b ,1
+Maximum frequent character in h d h e h h h h b h e g h h d h h d ,7
+Maximum frequent character in i f c g c c c c c f c c j d c c c g c c c e g e b c ,2
+Maximum frequent character in j j e c j j e j j j f j j i j j j h ,9
+Maximum frequent character in i i a d j d d d d d d g e j e d a d d d j d b d a ,3
+Maximum frequent character in i b i i i c c i i i i i i i h f i g i a i e f j a i i j e j ,8
+Maximum frequent character in c h c c h c d c j c h b c j c h c c ,2
+Maximum frequent character in e e d e e e f a a e e i e g c e ,4
+Maximum frequent character in e e e b i e ,4
+Maximum frequent character in g g g g a g a g e g b g g g j d g j a g g g g g h g ,6
+Maximum frequent character in a j a a f a d i f a i a a d a i a h f e a a a a a ,0
+Maximum frequent character in i g d c d e d d d j d d d d e e d d d d d d d d i f ,3
+Maximum frequent character in h c i a c c c i c c ,2
+Maximum frequent character in c c c d a c c c c c d j h j i c j b b c c c j c i g c c ,2
+Maximum frequent character in b a j c c c c c i d c c g c c e c c g h g c ,2
+Maximum frequent character in a a c a a a a i i e a ,0
+Maximum frequent character in f h f j f f f f f a e f f i ,5
+Maximum frequent character in i i i i h i i f g f c i b i i h ,8
+Maximum frequent character in c b g e g g g g ,6
+Maximum frequent character in c f b b c c c c c e ,2
+Maximum frequent character in c a c j c e c c c f c c c c a c f c d ,2
+Maximum frequent character in g j i g f f f a f f f a f f d f a f g ,5
+Maximum frequent character in j j j j h j h a g j ,9
+Maximum frequent character in d h e e g e e e e e e e e h ,4
+Maximum frequent character in b b b a b h f b c ,1
+Maximum frequent character in a j b d d a d d d b d h d i d d d d ,3
+Maximum frequent character in i h i i i h i i i c i f b j g e i i i f a i i ,8
+Maximum frequent character in j j d j j j i b h j g d j j c g j j b j j j ,9
+Maximum frequent character in a i c a c c e c b c b c c c c c c c j d f c b c j c h j c ,2
+Maximum frequent character in i i i i i i f b ,8
+Maximum frequent character in j j c j g h i j j e h j j c j b j ,9
+Maximum frequent character in e b a b b h h c d b b i b b i e b b b h a b f d b b b b ,1
+Maximum frequent character in a a a e a c j h a c a i a a a f ,0
+Maximum frequent character in a a a e a a g b f h a f a h a a a d c c e a a j a ,0
+Maximum frequent character in d d b d d d a h ,3
+Maximum frequent character in b j e h h h h h h h h i h h h h i h b j d d ,7
+Maximum frequent character in a a f j a a j a i f a a i b a g g a a i a ,0
+Maximum frequent character in a d a j a ,0
+Maximum frequent character in a a a d a a i d g d a a a a a h a a a a e a ,0
+Maximum frequent character in e h h h h h h d e i h h a a h f h h d h h d h h h b j ,7
+Maximum frequent character in e a a a e a a a a a a c a h a a h a f g d ,0
+Maximum frequent character in j j b c j i j f i j j j j j j j b j f f j f j j j g h ,9
+Maximum frequent character in g a a a a j e a a a d a d a a a g a a a e d ,0
+Maximum frequent character in a a i a a e a a a i a d g b a g i a a a a f d b a a a i j ,0
+Maximum frequent character in h b j f h h h h d h h b h h i h h c b h h f h i ,7
+Maximum frequent character in j e e e e h e e e f e e e e a d g e h h a b e e ,4
+Maximum frequent character in a g h h h a f f f j f f f a j f f h f f c f f f f ,5
+Maximum frequent character in c c f c c c c c a a c a ,2
+Maximum frequent character in b b b b h e ,1
+Maximum frequent character in h h j d h h h h e f h h h h f d h ,7
+Maximum frequent character in f f f j h f i h c j f b d c f f f f f f i ,5
+Maximum frequent character in e e b b b b j i b b d b b b f b b b b b b b h d j e f ,1
+Maximum frequent character in h j h h h h h a h h a ,7
+Maximum frequent character in g f f f f f f f j h ,5
+Maximum frequent character in a h a a a a a b a d a c a g a j a c ,0
+Maximum frequent character in d d j e j d d d d g d e d d g g h d d f d d d d g j b d d ,3
+Maximum frequent character in b g b e g b b ,1
+Maximum frequent character in f g i g b g g g h ,6
+Maximum frequent character in a a c g j g b i a a a a a a a h ,0
+Maximum frequent character in i j i f b i i a i b c i f i i i i i e b i f e ,8
+Maximum frequent character in f f f f f h f g h j f d f b f j f e e c f h f f f f d f ,5
+Maximum frequent character in d d d d a e i d i e a d h d d d ,3
+Maximum frequent character in f f d c f f f f a i ,5
+Maximum frequent character in d d d i c d a d d d a c h i d d d e a d c d d d a ,3
+Maximum frequent character in c a c f c c c f c c i c e c j c d c ,2
+Maximum frequent character in d d d g j i c g d c d a d d d ,3
+Maximum frequent character in d f f f a b f f f f ,5
+Maximum frequent character in e f d g g g c g g g g g ,6
+Maximum frequent character in d f d d d d d h e d d j e a j d d ,3
+Maximum frequent character in b i i i h i g i i ,8
+Maximum frequent character in i e g i c i i i c e i i i ,8
+Maximum frequent character in c j g c c g c c h f c b c f c c c c c e f c c f c c d c h i ,2
+Maximum frequent character in g g a g c b f g g g i g d g d g b g g g g j g g b c g ,6
+Maximum frequent character in i h f h c c c c h b c c c c a f c f c c g c c c c b ,2
+Maximum frequent character in d g g g g h g f c g e ,6
+Maximum frequent character in b b f b j b b b b h c b a c b ,1
+Maximum frequent character in a a a a a a b a a a a a f d a e h d b a d g a g c a e e a ,0
+Maximum frequent character in f j g j j j j j j j j j d g a d j j j j b c ,9
+Maximum frequent character in e j c h a j j j j d j e j h j ,9
+Maximum frequent character in f c b c b a b b b b b f b c c b e b b c c ,1
+Maximum frequent character in i f f f d i f f h ,5
+Maximum frequent character in d d d d a d d a b h j i d d f ,3
+Maximum frequent character in f g f a f f f h b f f f ,5
+Maximum frequent character in f i i i i h ,8
+Maximum frequent character in b c i d d d d d d ,3
+Maximum frequent character in b h h h d h h h h h h i c h h c f e g i j c h h h h ,7
+Maximum frequent character in f h b c a b h h h h i h i h h h g i h d e h h ,7
+Maximum frequent character in c c h c c g h c c f c ,2
+Maximum frequent character in h e g f h g d i g g e g g g d d g g g g ,6
+Maximum frequent character in b b b b b b b h j b j b j b g b b f f d b f b b a b ,1
+Maximum frequent character in g i i e i i i c i a i b ,8
+Maximum frequent character in f b a b b b b b h b g b b b i h ,1
+Maximum frequent character in d b i i i i i f i g f g i e i f i b i i i ,8
+Maximum frequent character in j b i b b c c b h b b ,1
+Maximum frequent character in j j j j b j j j f i a a j b j ,9
+Maximum frequent character in a c a a a e h g a h a a a a a a a a e h c c a b ,0
+Maximum frequent character in c h h j f h h h g h h c h f c h e ,7
+Maximum frequent character in d h d d d d a d ,3
+Maximum frequent character in c c c c c c d b j c c c a h a j i ,2
+Maximum frequent character in a a a c j c c a d a c a j a a c a a d f g a a a h ,0
+Maximum frequent character in f d g e g h g g g ,6
+Maximum frequent character in f j f f a h c h f d f f f f e f f f ,5
+Maximum frequent character in i g g g e g e g b g h j j g g g g i i g i h i h g b g g g ,6
+Maximum frequent character in d h d j d a d d b d c d ,3
+Maximum frequent character in i e h i i i i g i e i g i i g i b b b ,8
+Maximum frequent character in g a a f d d a a a h a a a b a g a a a a a g e c a a d i a j ,0
+Maximum frequent character in j g j a a d a d f b e a a a a a a a ,0
+Maximum frequent character in a e e e c f e ,4
+Maximum frequent character in g h h e h h h h h f h h h h h h c f h c h h d ,7
+Maximum frequent character in b b b d b b h b d b b d b b j b j g b b ,1
+Maximum frequent character in i b c a i a i g i i i i i i h i e h c i b ,8
+Maximum frequent character in g c c c c c c c c c c a c g a f c i j c c i c ,2
+Maximum frequent character in a a h a b e g a c a a c f a d a a a a ,0
+Maximum frequent character in f d h d d d d d f a a ,3
+Maximum frequent character in e c c d c ,2
+Maximum frequent character in i g i i b e j i i i i i i i i c i c i a i a i i b f e i h ,8
+Maximum frequent character in j j j j c j j j e e j c j ,9
+Maximum frequent character in e e e e d e d d j e e h e b f e e e i a e e g i e h ,4
+Maximum frequent character in a a a b a i ,0
+Maximum frequent character in g g e g g c g ,6
+Maximum frequent character in d g h f d j g e e d d d d f d c d d d d j d ,3
+Maximum frequent character in d c d d i d h d d d d c d h d d d d e d d f f d e d ,3
+Maximum frequent character in c f e c c c a c a e i c c ,2
+Maximum frequent character in h b h h h h h b h c h c i g h h j d h h ,7
+Maximum frequent character in b i e e e e e f e i e h e e i e e e ,4
+Maximum frequent character in f f i f h f f c e f f f g f d f f f f f f f f e f j d a b b ,5
+Maximum frequent character in j j j a j c j b h h j j b j j h j j h e j a c ,9
+Maximum frequent character in a i g a j f a i a f e a a a d e a a a i a ,0
+Maximum frequent character in j j h f j j j c j j c c ,9
+Maximum frequent character in d f j j j ,9
+Maximum frequent character in b b e g j i h b b e b b c e b b g j b h j h b b b j b b b b ,1
+Maximum frequent character in i i i i j h j i h i i a i g i ,8
+Maximum frequent character in a h a b j a a a ,0
+Maximum frequent character in b b h e b d b b b b j b b c f b b ,1
+Maximum frequent character in i i g f i i b i i e ,8
+Maximum frequent character in e e e f e e e e d e e e c i g f e f e c h e d g d ,4
+Maximum frequent character in f f h f e f f f h f e f h f a b f f f f c e f ,5
+Maximum frequent character in g g c g g g g g g c g g f g g d g g g a h j i g g g h b j g ,6
+Maximum frequent character in b b c b b b b a b b b b b b g i ,1
+Maximum frequent character in c c f b c f c c c c c g c a c e j b c a i a c c c c c ,2
+Maximum frequent character in i h h h b h h ,7
+Maximum frequent character in c f f f i f i d e f f d f a f f d f a g f f g f f ,5
+Maximum frequent character in f f b f g f f d c f f j j f f b c f j ,5
+Maximum frequent character in g g g e g g j i g d j g g b j g h i g g g c h ,6
+Maximum frequent character in e g g d g e g g g g g d ,6
+Maximum frequent character in e c a c c g c c c i c c e ,2
+Maximum frequent character in c c c e c c c b g c b c c c a a c c f c c ,2
+Maximum frequent character in e e e e h e f e b e ,4
+Maximum frequent character in d g h j j j j j j a g ,9
+Maximum frequent character in b b b b b b ,1
+Maximum frequent character in i b g g j g g ,6
+Maximum frequent character in h d h h h h d h h h i d c a ,7
+Maximum frequent character in j i j e j g i g h j d e j j j b j j j j a j j j g i j j ,9
+Maximum frequent character in f b b a b b b b i b d d g j b d b b b e b b b f b h i b a b ,1
+Maximum frequent character in a h a a a ,0
+Maximum frequent character in i i i i a j c i c e i ,8
+Maximum frequent character in a e i e e e b d e e g e e c e d c ,4
+Maximum frequent character in a b h e d e e e e g e j e d e ,4
+Maximum frequent character in a i i i g i i i i b i c e j f i a i i d d i i a ,8
+Maximum frequent character in i h h g h h c ,7
+Maximum frequent character in h b h h h h h h h h c b g h i h e c j ,7
+Maximum frequent character in b b b a b b f b b e b i b h b h b d b e b d h d i b j b b b ,1
+Maximum frequent character in j j h j j j j a g j b j j f d i j j f c d i j j j j e ,9
+Maximum frequent character in h d d h h h h h ,7
+Maximum frequent character in a a a a h a a j d f a a h h e a a b a a a c a c ,0
+Maximum frequent character in f i i i i b b e i d i i j i i i i i i h i d g f i a i i ,8
+Maximum frequent character in i f j b f f f f f f ,5
+Maximum frequent character in f c e g b g g j e i g g e g g g g g g h g i h h d g g g a ,6
+Maximum frequent character in i a i j i j i i j i d i i f i i f i b i g ,8
+Maximum frequent character in h j i j j j j j j j ,9
+Maximum frequent character in b h f b b g b b b b h b e b b i b b c j j ,1
+Maximum frequent character in d a c a a a a ,0
+Maximum frequent character in f f f f f f j j g d f h b f f f i e f f g f f a f a f i i ,5
+Maximum frequent character in b e f a e f e j e e e j e e a j e e e d e e e c i ,4
+Maximum frequent character in h b e h h h h h h ,7
+Maximum frequent character in d d d d a b i b d i d ,3
+Maximum frequent character in d d g d h d d d d ,3
+Maximum frequent character in g g e g g c g c h g g g c g g i d ,6
+Maximum frequent character in j e e a e e e b e e e c e e g c j a e e ,4
+Maximum frequent character in b a a a a a a c h g a e i g a b a a c a c a a j ,0
+Maximum frequent character in f d f h j f f f j f f f a c f f ,5
+Maximum frequent character in d i i h i i i i e b f i ,8
+Maximum frequent character in f h h h h i h h g h h e ,7
+Maximum frequent character in c c c c e c ,2
+Maximum frequent character in i h h a h h h f h h h g h i i c c h d h g i h h h e ,7
+Maximum frequent character in a h h a a a a j c h i a a a ,0
+Maximum frequent character in a b d d d d d d e d d i i d f d h d ,3
+Maximum frequent character in c h h h g h h h g h c h h e j i h j e g h h h h a h c ,7
+Maximum frequent character in a e h h h h f c h h h j j f c h h h f j h h h h h e b ,7
+Maximum frequent character in i i e i i i i ,8
+Maximum frequent character in b b b b e e b e g ,1
+Maximum frequent character in j c g g g j g g a f g a g i g h e g g g g g ,6
+Maximum frequent character in f c f e f i f c f f d ,5
+Maximum frequent character in a g e g h i g g g g ,6
