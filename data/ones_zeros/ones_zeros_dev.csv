@@ -1,0 +1,1001 @@
+text,label
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 1 1 1 0 0 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 0 0 0 0 1 0 0 0 1 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 1 0 0 0 0 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 0 0 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 0 0 0 1 1 1 0 0 1 0 0 1 1 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 1 0 1 0 0 0 1 1 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 0 1 1 1 0 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 1 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 1 0 0 1 1 1 0 0 1 1 0 1 0 1 1 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 0 1 1 0 0 0 0 1 1 0 0 1 1 0 1 0 1 1 1 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 0 0 1 1 0 0 1 0 1 1 0 1 1 0 1 1 0 1 0 1 1 0 0 1 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 1 0 0 0 1 0 1 0 1 1 0 1 0 1 1 0 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 1 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 0 1 0 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 0 1 1 1 1 1 0 0 1 1 1 1 1 0 1 1 0 1 0 0 0 1 0 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 1 0 0 1 0 1 1 0 0 0 1 0 1 1 1 1 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 1 0 1 1 0 0 1 0 0 1 1 0 0 0 0 1 1 1 1 0 1 0 0 0 0 1 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 0 1 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 0 1 0 1 1 1 1 1 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 0 0 0 1 0 1 1 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 1 0 1 0 0 0 0 1 0 1 0 0 1 0 1 0 1 1 1 0 1 0 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 1 0 0 1 0 0 0 0 1 1 0 1 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 0 1 0 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 1 0 1 1 0 1 1 0 1 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 1 1 1 0 0 1 0 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 0 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 0 0 1 1 1 1 0 0 0 0 1 0 1 1 0 1 0 0 0 0 0 0 1 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 1 0 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 1 0 1 1 1 0 1 0 1 0 1 0 0 1 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 0 1 0 1 0 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 1 0 1 1 0 0 0 1 1 0 1 1 1 1 0 0 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 1 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 0 0 1 1 0 1 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 0 1 1 0 0 0 1 0 1 1 0 0 0 1 0 1 0 1 1 0 0 0 1 1 1 1 1 0 0 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 1 0 0 1 0 1 1 0 1 1 1 1 1 0 1 1 0 1 0 0 0 0 0 0 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 0 0 0 1 0 1 1 1 0 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 1 0 0 1 0 1 0 1 0 0 1 0 0 0 0 1 1 1 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 1 1 1 1 0 0 1 0 0 1 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 1 1 0 1 1 1 1 0 0 1 0 0 0 1 1 0 1 0 1 1 0 0 0 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 0 1 1 0 1 1 1 0 1 0 1 0 0 1 1 1 1 1 0 0 0 1 0 1 1 0 1 0 0 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 1 0 0 1 1 0 0 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 0 1 0 0 1 1 0 1 1 0 1 0 0 0 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 1 1 1 0 0 1 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 0 1 1 1 0 1 0 1 0 1 0 1 1 0 0 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 1 0 0 0 1 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 1 0 1 0 1 1 0 0 1 0 0 0 1 0 1 0 0 1 1 1 0 1 1 0 1 0 0 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 0 1 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 0 0 1 0 1 1 1 0 1 1 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 1 0 1 1 0 0 1 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 0 1 1 1 1 1 1 1 0 0 0 0 0 0 0 1 0 1 0 1 1 0 1 1 0 0 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 1 0 1 1 0 0 0 1 0 1 0 1 0 1 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 1 1 0 1 0 1 0 1 0 0 1 0 1 1 0 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 0 0 1 0 1 1 1 0 1 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 1 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 0 0 1 0 1 1 0 1 1 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 1 0 1 1 0 1 0 1 1 0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 1 1 1 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 0 0 1 0 0 0 0 1 1 1 1 1 0 1 1 1 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 0 1 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 0 0 0 0 1 1 0 0 1 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 0 1 0 0 0 1 1 1 0 0 1 1 0 0 0 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 1 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 0 0 1 0 0 1 0 1 1 0 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 1 1 0 1 0 0 0 1 0 1 0 1 0 0 1 1 0 1 0 0 1 0 0 1 1 1 1 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 1 1 1 0 0 1 0 1 0 0 0 0 0 1 0 1 1 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 1 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 1 1 0 1 0 0 0 0 0 1 1 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 1 0 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 0 1 1 1 1 0 0 0 0 0 1 0 1 1 0 1 1 1 1 0 1 1 0 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 0 1 0 0 1 0 1 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 0 0 1 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 1 1 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 0 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 1 0 0 0 1 1 1 0 1 0 1 1 0 0 1 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 0 1 0 0 1 1 0 0 0 1 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 1 1 1 1 1 1 0 0 0 0 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 1 1 1 0 0 1 1 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 0 0 1 0 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 0 0 1 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 1 1 0 1 0 0 0 0 1 0 1 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 0 1 1 1 1 1 0 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 0 1 1 1 0 0 0 1 1 1 0 0 1 0 0 0 0 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 1 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 1 1 0 0 1 1 0 1 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 1 1 0 0 1 1 1 0 1 1 0 0 1 1 1 1 0 1 0 0 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 0 1 0 1 0 0 0 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 1 1 1 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 0 1 0 1 1 0 0 1 1 0 1 1 1 0 0 0 1 0 0 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 0 0 0 0 0 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 0 0 0 1 0 1 0 1 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 1 1 1 1 1 0 1 0 1 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 0 1 1 0 0 0 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 1 0 0 0 0 0 0 0 1 0 1 1 0 0 0 1 1 0 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 0 1 0 0 1 0 1 1 0 0 0 1 1 1 0 0 1 1 0 0 1 1 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 1 1 0 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 0 0 1 1 1 0 0 0 0 1 1 0 1 0 1 0 0 1 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 1 1 1 1 0 1 0 0 1 0 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 0 0 0 0 1 1 1 1 0 0 1 1 0 0 1 1 1 0 1 1 0 1 0 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 0 1 0 0 1 0 1 0 1 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 0 1 1 0 0 0 1 0 0 1 1 1 0 0 1 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 1 0 1 1 0 1 1 0 0 0 1 1 0 1 0 1 0 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 1 1 0 1 0 1 1 0 0 1 1 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 1 1 0 0 1 1 0 0 0 1 0 1 0 1 0 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 1 0 1 0 1 0 1 1 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 1 1 0 0 1 0 1 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 0 1 1 1 0 1 1 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 0 0 1 1 1 0 0 0 0 1 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 0 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 1 0 1 1 0 1 0 0 1 1 0 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 0 1 1 1 0 1 1 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 1 0 0 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 1 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 1 0 0 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 1 0 0 1 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 0 1 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 1 0 0 0 1 0 0 1 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 1 0 0 0 1 0 0 0 0 1 1 1 1 1 1 0 0 1 0 1 0 1 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 1 0 1 0 1 0 1 0 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 1 0 1 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 0 1 1 0 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 1 1 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 0 1 1 0 1 0 0 0 0 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 0 1 1 0 1 0 0 0 0 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 0 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 0 0 0 1 1 1 1 1 0 1 0 1 1 1 0 0 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 1 0 1 1 1 1 0 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 1 1 1 0 1 0 0 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 1 1 0 1 0 0 0 0 1 1 1 0 0 0 1 1 1 1 0 1 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 0 1 0 1 1 0 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 0 0 1 1 1 0 0 1 0 0 1 0 1 1 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 1 1 1 0 1 1 0 0 1 0 1 0 0 1 0 1 0 1 1 0 1 1 0 1 0 0 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 1 0 0 1 0 0 1 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 0 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 1 1 0 1 0 1 0 1 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 1 0 0 0 1 0 1 0 1 1 1 0 1 0 0 1 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 0 0 1 1 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 1 0 1 1 1 0 0 0 1 1 0 0 1 1 0 1 0 1 0 1 1 0 1 0 0 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 1 0 0 0 1 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 1 1 0 0 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 1 0 1 0 1 1 1 0 1 0 1 0 0 1 1 0 0 1 0 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 0 1 0 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 1 1 0 0 1 1 0 0 0 1 0 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 0 0 1 0 0 1 1 0 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 0 1 0 1 1 0 1 1 1 0 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 0 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 1 0 0 1 1 1 0 1 0 1 1 0 0 0 1 0 1 0 0 0 0 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 1 1 0 0 1 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 0 1 1 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 1 1 0 1 1 1 0 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 1 1 0 1 0 1 0 0 1 0 0 1 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 0 1 1 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 0 0 1 1 0 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 0 0 0 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 1 0 0 0 1 0 1 0 0 0 1 1 1 0 1 1 1 1 1 1 1 0 1 0 0 1 0 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 1 1 0 0 0 0 1 1 1 0 0 1 0 1 1 1 0 1 0 1 1 0 0 0 1 1 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 1 0 0 0 1 1 1 1 0 0 1 0 1 1 0 1 0 0 0 0 1 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 0 1 1 1 0 1 1 0 1 0 0 1 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 0 1 0 0 1 1 1 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 1 1 1 0 0 1 1 0 0 0 0 0 0 1 0 0 1 1 1 0 0 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 0 1 1 0 1 1 0 0 1 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 0 1 0 1 0 1 0 0 1 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 0 1 0 1 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 0 1 0 1 0 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 0 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 1 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 1 1 1 0 1 0 1 1 1 1 0 1 0 0 0 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 0 1 0 0 0 1 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 0 1 0 0 0 0 0 1 1 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 1 0 1 1 1 0 0 1 1 1 0 1 1 1 0 0 0 0 0 0 1 0 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 0 1 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 1 0 1 1 0 1 0 0 0 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 1 1 0 0 0 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 1 1 1 0 1 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 0 0 0 1 1 1 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 0 0 0 0 1 0 0 0 1 0 1 1 1 1 1 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 0 0 0 1 1 0 1 1 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 0 1 1 1 0 1 1 0 0 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 1 1 1 1 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 0 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 1 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 0 1 0 0 0 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 0 1 1 0 1 1 1 1 0 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 1 0 0 0 0 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 0 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 1 0 1 1 0 0 1 0 1 0 1 1 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 1 1 1 1 1 1 0 0 1 0 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 1 0 0 1 1 1 0 0 0 0 0 1 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 1 0 0 0 0 1 0 0 1 0 1 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 0 1 1 1 1 0 0 0 0 1 0 1 1 1 1 1 1 0 0 0 0 0 1 0 0 1 1 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 1 1 0 0 1 0 1 1 1 0 0 0 1 1 0 0 0 0 0 0 0 1 1 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 1 0 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 1 1 0 0 1 1 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 1 0 1 1 1 0 1 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 0 0 1 1 0 0 1 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 0 0 0 0 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 1 1 0 0 0 1 1 1 0 1 0 0 0 1 1 0 0 1 1 0 0 1 1 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 0 0 1 1 1 0 1 1 1 1 0 1 0 1 0 1 0 1 0 1 0 1 0 0 0 0 0 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 0 1 0 0 1 1 0 1 1 0 1 0 1 0 0 1 0 0 1 1 0 1 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 1 0 1 0 0 0 1 0 1 0 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 0 1 1 1 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 1 0 1 1 1 0 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 1 0 0 0 1 1 1 1 1 0 1 1 1 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 0 1 0 1 1 0 0 0 1 0 1 1 0 1 1 0 0 1 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 1 1 0 0 1 1 0 1 0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 1 1 1 1 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 1 1 1 1 1 0 0 0 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 0 1 1 0 0 1 0 0 1 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 1 0 1 0 0 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 0 0 0 1 0 0 0 0 1 0 1 0 1 0 0 1 1 1 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 0 0 1 0 1 0 0 1 1 1 0 0 1 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 0 0 1 0 1 1 0 0 0 0 0 1 0 1 1 1 1 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 0 0 1 1 0 0 1 0 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 1 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 0 1 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 0 1 1 0 1 0 1 1 0 0 0 1 1 1 0 1 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 0 0 1 0 0 1 1 0 1 1 0 0 0 1 0 0 0 1 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 1 1 1 1 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 0 0 0 1 1 0 1 0 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 1 0 0 1 1 1 0 1 1 1 0 0 1 1 0 0 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 1 1 0 0 0 1 0 1 1 1 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 0 1 0 0 0 1 1 0 0 1 1 0 0 1 1 1 0 1 0 0 0 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 0 0 0 0 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 0 1 1 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 1 0 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 1 0 1 0 0 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 0 0 1 0 0 1 0 0 0 0 0 1 0 0 1 1 1 0 0 1 1 1 1 1 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 1 0 1 0 0 0 1 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 1 1 0 0 1 0 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 0 1 0 0 1 0 1 1 1 0 0 0 0 0 1 1 1 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 0 1 1 0 1 1 1 0 0 0 0 1 1 1 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 0 1 0 1 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 0 1 1 0 0 1 0 1 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 0 0 1 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 0 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 0 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 1 1 0 0 1 1 1 0 0 0 0 1 0 1 0 0 1 1 0 1 0 1 1 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 1 0 0 0 0 1 0 1 1 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 1 1 0 1 0 1 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 1 0 0 1 1 0 0 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 0 1 0 0 1 0 1 1 1 1 0 0 0 0 1 0 1 0 1 0 0 0 0 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 1 1 1 0 1 0 0 0 1 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 1 1 1 0 0 0 1 1 1 0 1 1 0 1 1 0 1 0 1 1 1 0 0 0 0 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 1 0 1 1 0 0 1 1 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 0 0 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 0 1 0 1 0 0 0 1 0 0 1 1 1 1 0 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 0 1 0 0 1 1 1 0 1 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 1 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 1 1 0 0 0 1 0 0 0 1 1 1 1 1 1 1 0 0 0 0 0 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 1 1 1 0 1 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 1 1 1 1 1 0 1 0 1 0 0 0 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 0 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 0 0 1 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 0 0 1 1 0 1 1 1 0 1 0 1 1 1 1 1 1 0 0 0 1 1 0 0 0 1 0 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 1 1 1 0 0 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 0 0 1 1 0 0 1 1 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 0 1 1 0 1 1 1 0 1 0 0 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 0 0 0 1 1 1 0 1 1 1 0 1 0 0 0 1 1 0 0 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 0 0 0 0 1 1 1 0 0 0 1 1 1 0 1 1 0 0 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 1 0 1 1 0 1 0 1 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 1 0 0 0 1 0 1 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 1 0 0 0 0 1 1 0 1 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 0 0 0 1 0 0 1 1 1 1 0 1 1 1 1 0 0 1 1 0 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 1 0 1 1 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 0 1 0 0 0 0 1 0 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 1 0 0 1 0 0 0 0 1 1 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 1 1 1 0 0 1 1 1 0 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 0 0 1 1 1 0 1 1 1 0 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 1 0 1 1 0 0 0 1 0 0 0 0 1 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 0 1 1 0 1 1 0 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 1 1 0 0 0 1 0 1 0 0 0 1 0 1 0 1 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 0 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 1 1 0 0 0 0 0 0 1 1 1 1 0 1 1 0 1 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 1 1 1 0 1 0 1 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 0 1 0 0 1 0 0 1 1 0 1 1 1 0 0 1 1 0 0 0 0 0 0 1 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 1 1 0 1 1 1 0 0 0 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 0 1 1 1 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 0 0 1 1 1 0 1 0 1 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 0 0 1 1 1 1 1 0 1 0 0 1 0 0 0 1 1 1 0 0 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 0 1 0 0 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 0 1 0 0 1 0 1 0 1 0 0 1 1 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 0 0 1 0 0 0 1 0 1 0 1 1 0 1 0 0 0 0 0 1 1 1 1 0 1 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 0 0 1 1 0 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 0 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 1 1 1 1 0 1 0 0 1 0 0 0 1 1 0 0 0 1 0 0 1 1 0 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 0 0 1 1 0 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 0 0 0 0 1 0 1 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 0 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 0 1 0 0 1 0 1 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 0 0 0 0 1 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 1 1 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 1 1 0 1 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 1 0 0 1 0 1 1 1 1 0 1 0 1 0 1 1 0 1 0 0 0 1 0 0 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 1 0 1 0 0 1 0 1 1 1 1 1 0 0 1 1 1 0 0 1 1 0 0 0 0 1 0 1 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 0 1 1 1 0 1 0 1 0 0 1 0 0 0 0 1 0 1 1 0 1 0 1 1 0 1 0 0 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 1 0 0 1 0 1 1 0 1 0 1 1 0 1 1 0 1 1 1 0 1 0 0 0 0 0 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 1 1 0 0 0 1 0 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 0 1 1 1 1 0 0 1 1 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 1 0 0 0 0 0 0 1 1 1 1 0 0 1 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 0 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 1 0 0 0 1 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 0 0 1 0 0 1 1 0 0 1 0 0 1 1 0 1 0 1 1 0 1 1 1 1 0 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 1 0 1 0 1 0 0 0 0 0 1 0 1 1 0 0 0 0 1 1 0 1 1 1 1 1 1 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 1 0 1 0 0 0 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 1 0 1 1 0 0 0 1 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 0 1 0 1 0 1 0 1 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 1 0 1 0 0 0 0 1 1 0 1 1 0 0 0 0 1 0 1 1 1 0 1 0 1 0 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 1 0 1 0 1 0 1 1 1 0 0 1 1 0 1 0 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 1 1 0 0 1 0 0 1 1 1 0 0 1 1 1 1 1 0 0 1 0 0 1 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 1 0 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 0 0 0 1 1 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 1 0 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 0 1 0 1 1 0 0 1 1 0 1 1 1 0 1 1 0 1 0 0 0 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 1 0 1 0 1 0 1 0 0 1 1 1 0 0 1 1 0 0 1 1 0 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 0 1 1 1 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 1 1 1 0 0 0 0 1 1 0 0 1 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 1 1 1 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 1 0 1 1 1 1 0 1 1 0 1 1 0 0 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 0 0 0 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 0 1 1 0 1 0 0 1 1 1 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 0 0 1 0 0 1 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 1 0 1 1 0 1 0 0 1 1 1 0 0 1 0 1 0 1 1 0 0 1 0 0 1 1 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 1 1 0 0 0 1 0 1 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 1 1 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 0 1 1 0 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 1 1 0 1 0 1 0 0 1 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 1 0 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 0 0 1 1 1 1 0 1 1 1 1 1 0 1 1 0 0 1 0 0 0 0 1 0 1 1 0 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 0 0 0 0 1 1 0 0 0 1 1 1 1 1 0 1 1 0 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 0 0 1 0 0 1 0 0 0 0 1 1 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 0 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 1 1 1 0 0 0 0 1 0 0 1 1 0 1 0 0 0 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 1 0 1 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 0 1 0 0 1 1 0 1 1 0 1 0 0 0 1 0 0 1 1 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 1 1 1 0 0 1 1 1 0 0 1 1 1 1 0 0 0 1 0 0 0 0 1 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 0 1 0 1 1 1 1 0 1 1 0 0 0 1 1 0 0 1 1 1 1 1 0 0 0 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 0 1 1 1 1 1 1 1 0 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 0 0 0 0 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 1 0 1 0 1 0 1 0 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 0 1 1 1 1 0 0 0 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 0 1 1 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 0 0 0 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 0 1 0 1 1 1 0 1 0 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 0 1 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 1 0 0 1 1 0 0 1 0 0 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 1 0 1 1 1 0 0 0 1 1 0 1 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 1 0 0 0 0 1 0 0 0 1 1 0 1 0 1 1 0 0 1 0 1 0 1 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 0 0 0 0 1 0 1 0 1 1 1 0 1 0 0 0 0 1 1 0 1 1 0 0 0 1 0 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 1 1 0 0 0 1 0 0 1 0 0 1 0 1 1 0 1 0 0 0 0 0 1 0 1 1 0 0 1 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 0 1 1 1 1 0 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 0 0 0 1 1 1 1 0 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 1 1 0 0 1 0 0 1 0 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 0 0 1 1 0 0 0 1 1 1 1 0 1 1 1 0 0 0 0 0 1 0 0 1 0 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 0 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 0 1 1 0 1 0 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 0 1 0 0 1 1 1 0 1 0 1 0 0 1 0 0 1 1 1 0 1 0 1 1 0 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 0 1 0 1 0 1 0 1 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 1 0 0 0 0 1 0 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 0 1 0 1 1 0 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 0 1 0 1 0 0 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 1 1 0 0 0 1 1 1 0 1 0 1 0 0 1 0 1 1 1 0 0 0 1 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 0 0 0 1 1 0 1 1 1 1 1 0 0 1 0 1 0 1 1 0 0 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 0 1 1 0 0 1 0 1 0 0 0 1 0 1 0 1 1 0 1 1 1 0 1 0 1 1 0 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 0 1 0 1 1 0 1 0 0 1 0 1 0 0 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 0 0 0 0 1 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 1 0 1 1 1 1 1 0 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 1 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 1 0 1 1 0 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 0 1 0 1 0 0 0 0 1 1 1 0 1 0 1 0 1 1 0 1 0 0 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 1 0 1 0 1 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 1 1 0 1 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 1 1 0 0 1 0 0 0 0 0 1 0 1 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 0 1 0 1 0 1 0 0 1 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 1 0 1 0 0 0 0 0 0 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 0 1 1 0 0 0 1 1 1 0 0 1 0 1 1 1 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 0 1 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 0 0 1 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 1 0 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 0 1 1 1 1 0 1 1 1 0 0 0 1 0 0 1 1 0 1 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 0 0 1 0 1 1 1 0 1 1 1 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 0 1 1 1 0 0 0 0 0 0 1 1 0 1 1 1 0 1 0 1 1 0 1 1 0 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 0 0 1 0 0 1 0 1 1 0 0 0 0 1 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 1 1 0 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 0 0 0 1 1 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 1 1 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 0 0 0 0 0 1 1 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 1 1 0 1 0 0 0 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 1 0 1 1 0 1 0 0 1 1 0 1 1 0 1 1 0 0 0 1 1 0 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 1 1 0 0 0 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 1 0 0 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 0 1 1 1 0 1 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 0 1 1 0 0 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 1 1 0 0 0 0 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 1 0 0 0 0 0 0 1 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 1 1 1 1 1 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 1 1 1 1 1 1 0 1 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 0 0 1 0 0 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 0 0 0 0 1 1 0 1 1 0 0 1 0 1 1 0 0 0 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 1 0 1 0 0 1 0 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 1 1 0 0 1 1 0 1 1 0 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 1 0 1 0 0 0 0 0 1 0 1 1 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 0 1 1 0 0 0 1 0 1 1 1 1 0 0 0 0 1 0 0 1 1 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 0 1 1 0 1 0 0 0 1 0 1 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 1 1 1 0 0 1 0 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 0 1 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 0 0 0 1 1 0 0 1 1 1 0 1 0 1 0 1 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 0 1 0 0 1 0 1 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 0 0 0 0 1 1 1 0 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 0 0 0 1 0 1 1 0 0 1 1 1 0 0 1 0 0 1 1 0 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 1 0 0 1 0 1 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 1 1 1 0 1 0 0 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 1 1 0 1 0 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 1 1 0 0 0 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 0 1 0 0 1 0 0 1 1 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 0 1 0 0 1 1 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 0 0 0 0 1 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 1 0 1 1 1 1 0 1 1 1 1 1 0 0 0 1 1 0 1 0 0 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 1 0 0 1 0 1 1 0 0 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 0 1 1 1 1 0 1 0 0 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 0 1 1 1 1 0 0 1 0 0 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 1 1 0 0 1 1 1 1 1 1 0 1 0 0 1 1 0 0 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 0 1 0 0 0 0 1 0 0 1 0 1 1 1 1 0 0 0 1 0 1 0 1 1 0 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 0 1 1 0 1 0 0 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 1 1 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 0 0 0 1 1 0 0 1 1 0 0 0 0 0 1 1 0 1 0 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 0 0 1 0 1 1 1 1 0 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 1 0 0 0 1 0 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 0 1 1 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 1 0 1 1 0 1 0 1 0 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 0 1 1 1 0 0 1 0 0 1 1 1 1 0 1 1 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 1 0 0 1 0 0 1 1 1 1 1 0 1 1 0 1 0 0 1 0 0 0 1 0 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 0 1 0 0 0 0 1 1 1 1 1 0 0 1 1 0 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 0 0 0 1 1 0 1 0 0 0 1 0 0 1 0 1 1 1 1 1 0 1 0 0 1 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 0 0 1 1 0 1 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 0 1 1 1 0 1 1 0 0 1 1 0 1 1 1 0 0 0 0 0 0 1 0 1 1 1 0 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 1 0 1 0 0 1 1 1 0 0 1 0 1 0 0 0 0 1 0 1 1 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 0 0 1 1 0 0 1 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 1 0 0 1 1 1 1 0 0 0 1 0 1 1 0 1 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 1 1 1 1 1 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 0 0 1 1 0 1 0 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 1 1 1 0 1 0 0 1 1 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 1 0 1 1 0 0 0 0 1 0 0 0 0 1 1 1 1 1 0 0 0 1 1 0 1 1 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 0 1 1 1 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 1 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 0 1 1 0 1 1 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 1 1 0 0 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 1 1 1 0 0 0 1 0 1 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 1 0 0 0 1 1 1 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 0 1 0 1 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 1 0 0 1 0 1 1 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 0 1 1 0 1 1 0 1 0 0 0 1 1 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 ?,1
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 1 0 0 0 0 0 0 0 0 1 1 1 1 0 1 1 0 0 1 1 1 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 0 0 1 1 1 1 0 1 1 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 0 1 1 1 1 0 0 0 1 1 1 0 0 0 1 0 0 0 0 1 1 0 1 1 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 0 0 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 0 1 1 0 0 0 0 1 1 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 0 1 1 0 0 0 1 1 1 1 0 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 0 0 0 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 1 1 0 0 1 0 1 0 0 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 0 1 0 1 0 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 0 0 0 0 1 1 1 0 1 0 1 1 0 1 1 0 0 0 0 0 1 1 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 1 0 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 0 1 0 0 0 1 0 0 1 0 1 0 0 0 1 0 1 1 0 0 1 1 0 1 1 1 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 1 0 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 0 1 0 1 0 0 0 1 1 0 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 1 0 1 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 0 0 1 1 1 0 0 1 0 0 1 1 1 0 1 1 0 1 1 0 1 1 0 0 0 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 0 1 0 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 1 0 1 0 1 0 0 0 0 0 1 1 0 0 1 0 0 0 1 0 1 1 0 1 1 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 1 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 1 1 0 1 0 0 1 0 1 0 1 0 1 0 0 1 0 0 0 0 1 1 0 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 1 0 1 1 1 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 0 0 1 1 0 0 1 1 0 1 1 0 0 1 1 0 1 0 1 1 0 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 1 0 0 1 0 0 1 1 0 0 1 0 1 1 1 1 1 0 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 0 0 1 0 1 0 1 0 1 0 0 0 1 1 1 1 0 1 0 0 1 0 1 0 1 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 0 1 0 1 1 1 0 0 0 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 1 1 0 1 0 0 1 1 0 0 0 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 1 1 0 1 1 1 0 0 1 1 1 0 0 1 0 0 0 0 1 0 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 1 0 1 0 1 0 0 1 0 0 1 1 0 0 1 1 0 1 1 1 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 0 0 1 0 0 0 1 0 1 0 1 0 0 1 0 0 1 0 1 0 1 1 1 1 1 1 1 1 1 0 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 0 1 0 0 1 0 1 1 1 0 1 0 0 0 1 1 1 1 0 1 1 0 0 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 1 0 0 1 1 0 0 1 1 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 0 1 0 0 1 0 0 1 1 1 0 0 0 0 1 0 1 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 1 1 0 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 1 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 0 0 1 1 1 0 0 1 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 1 0 0 1 0 1 1 0 1 0 0 1 1 0 1 1 0 1 0 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 1 0 0 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 1 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 0 1 0 0 1 1 1 0 0 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 1 0 0 1 0 1 0 1 0 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 1 1 0 0 0 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 0 1 0 0 0 0 0 1 1 1 0 0 1 1 0 1 0 1 0 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 0 0 0 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 0 0 0 1 0 1 1 0 1 0 0 0 1 1 0 1 1 1 0 0 0 1 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 1 1 0 0 1 1 0 1 1 0 1 0 0 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 0 0 1 0 1 0 0 0 1 1 0 0 1 1 0 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 1 1 1 1 0 1 1 0 0 0 0 0 1 0 1 0 1 1 0 1 0 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 0 0 1 1 1 0 0 1 1 0 0 1 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 1 0 1 0 1 1 1 1 0 1 1 0 0 0 1 0 0 1 1 1 0 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 0 1 0 1 0 1 1 0 1 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 0 1 1 0 1 1 1 1 0 1 0 1 0 1 1 1 0 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 1 0 1 1 0 0 0 0 0 1 0 1 1 1 0 1 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 1 0 0 1 1 1 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 0 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 0 1 1 1 0 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 1 0 1 0 0 1 1 0 1 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 1 1 1 0 1 0 1 1 0 1 1 0 1 1 0 1 0 0 0 0 1 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 1 0 0 1 0 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 1 0 1 1 1 1 0 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 1 1 1 0 1 0 1 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 1 0 0 1 0 1 0 1 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 0 1 0 1 1 0 0 1 1 1 0 0 1 1 1 1 1 0 0 1 0 0 1 0 0 0 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 0 1 1 0 0 0 1 1 1 1 0 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 0 1 1 1 1 0 1 0 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 0 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 1 0 1 0 1 0 0 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 1 0 0 0 0 1 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 0 0 1 0 1 0 0 1 0 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 0 0 1 0 1 1 0 0 1 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 1 0 1 0 1 1 0 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 1 0 1 0 0 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 1 0 0 1 1 0 0 1 0 1 0 0 1 1 1 1 1 0 1 1 0 0 0 0 0 1 0 1 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 0 1 0 0 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 0 0 1 1 0 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 1 0 1 0 1 1 1 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 0 1 0 0 0 0 1 0 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 0 1 1 1 0 0 1 1 0 0 1 1 1 1 1 1 0 0 0 0 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 0 0 1 0 0 1 0 1 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 1 1 1 0 0 1 0 0 1 1 0 1 0 1 0 0 1 0 0 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 1 0 0 0 0 1 1 0 1 0 1 1 0 0 1 1 1 0 0 1 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 1 1 0 0 0 1 1 0 0 1 1 1 0 0 0 0 0 1 1 1 1 1 1 0 0 0 0 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 1 0 0 1 1 0 1 0 0 1 0 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 0 0 1 0 0 1 0 1 0 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 0 1 1 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 1 0 1 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 1 0 0 1 0 1 0 1 0 1 0 0 1 1 0 0 1 1 1 1 0 1 0 1 0 0 1 0 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 0 1 0 1 0 1 1 0 1 1 0 0 0 1 1 1 0 1 0 0 0 0 1 1 1 1 0 1 1 1 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 0 1 0 1 0 1 0 0 1 1 1 0 0 0 0 1 1 1 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 1 1 0 0 0 0 1 1 1 1 0 0 1 1 1 1 1 1 0 0 1 0 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 0 1 1 0 0 0 0 1 1 0 0 0 1 1 1 0 1 0 0 1 0 0 1 1 1 0 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 1 0 1 1 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 0 0 0 0 1 0 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 1 1 1 1 1 0 0 0 1 0 0 1 0 0 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 0 0 1 1 1 1 0 0 0 1 1 0 1 0 0 0 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 ?,1
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 0 0 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 0 1 0 1 1 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 1 1 1 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 0 0 1 1 1 1 1 0 0 1 0 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 1 0 0 1 1 1 0 1 1 0 0 1 0 1 0 1 1 0 0 0 1 1 0 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 0 1 1 0 0 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 1 1 1 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 0 1 1 0 1 1 1 0 1 1 0 0 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 1 0 0 0 0 1 1 1 0 1 0 0 1 0 1 0 0 0 1 0 0 1 1 1 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 1 0 1 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 0 0 0 0 1 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 1 0 0 1 0 1 1 0 0 1 1 0 0 0 1 0 0 1 0 1 1 1 1 1 0 1 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 1 0 1 1 0 1 1 0 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 0 1 0 0 1 0 0 1 1 0 1 0 1 1 0 0 1 0 1 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 0 0 1 1 1 0 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 0 1 1 1 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 0 0 1 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 1 0 0 1 1 1 0 1 0 0 0 0 1 1 1 1 0 0 0 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 1 1 1 0 1 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 0 0 1 1 0 0 0 1 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 0 0 0 1 1 1 0 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 1 0 0 0 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 0 1 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 1 0 0 0 1 0 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 1 0 0 0 1 1 1 1 0 1 0 0 1 0 0 0 1 1 1 0 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 0 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 0 0 1 1 0 1 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 0 1 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 ?,1
+Are number of ones equal to number of zeros in 0 0 1 1 0 1 1 1 1 0 1 1 1 1 0 0 1 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 0 1 0 1 0 0 0 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 1 0 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 1 0 0 0 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 1 1 ?,0
+Are number of ones equal to number of zeros in 1 0 1 0 1 0 0 0 1 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 1 0 0 1 0 0 1 0 0 1 0 0 0 0 0 1 1 0 1 0 1 0 1 1 0 1 1 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 1 0 1 0 0 0 0 1 0 1 0 1 1 1 0 1 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 0 0 ?,0
+Are number of ones equal to number of zeros in ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 1 1 0 1 0 0 1 0 0 0 1 1 ?,0
+Are number of ones equal to number of zeros in 0 0 1 0 0 0 1 0 0 1 0 1 1 1 1 0 1 1 1 0 0 1 0 1 0 1 ?,1
+Are number of ones equal to number of zeros in 1 0 1 1 1 0 0 1 1 0 0 1 0 1 1 0 0 0 1 1 1 0 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 1 0 1 0 0 0 0 1 1 1 0 1 ?,1
+Are number of ones equal to number of zeros in 0 1 0 1 1 0 0 1 0 1 1 1 1 1 1 1 0 0 0 0 0 1 0 0 1 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 0 0 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 0 0 1 1 0 1 0 0 0 1 1 0 1 1 0 ?,1
+Are number of ones equal to number of zeros in 0 0 ?,0
+Are number of ones equal to number of zeros in 1 1 1 1 1 0 1 0 0 0 0 0 0 1 0 1 1 1 1 1 0 1 0 0 0 0 ?,1
+Are number of ones equal to number of zeros in 0 1 1 1 0 0 ?,1
+Are number of ones equal to number of zeros in 1 1 1 0 ?,0
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 0 0 1 0 ?,0
+Are number of ones equal to number of zeros in 1 1 0 0 0 1 0 1 0 0 0 1 1 1 ?,1
+Are number of ones equal to number of zeros in 1 0 0 0 0 1 ?,0
+Are number of ones equal to number of zeros in 0 1 1 0 0 1 1 1 0 1 0 1 ?,0
+Are number of ones equal to number of zeros in 1 1 0 1 ?,0
