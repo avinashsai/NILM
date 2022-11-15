@@ -14,7 +14,7 @@ from train import train_model
 from utils import get_maxlen_classes
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
-datapath = '/playpen/avinash/ZeroShot/data/'
+datapath = 'data/'
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 SEED = 0
 random.seed(SEED)
