@@ -5,6 +5,11 @@ from transformers import BertConfig, DebertaConfig
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
 def get_model(modelname, numclasses):
+    """ Given a modelname loads the approriate tokenizer and model and returns them
+    Arguments:
+    modename (str): modelname to train
+    numclasses (int): numclasses to initialize the sequenceclassification class
+    """
     if(modelname == 'bert' or modelname == 'deberta' or modelname == 'bert-large'):
         if(modelname == 'bert'):
             model_original_name = 'bert-base-uncased'
@@ -16,11 +21,12 @@ def get_model(modelname, numclasses):
             model_original_name == 'bert-large-uncased'
             tokenizer = AutoTokenizer.from_pretrained(model_original_name)
 
-        model = AutoModelForSequenceClassification.from_pretrained(model_original_name,
-                                                                output_hidden_states=False,
-                                                                output_attentions=False,
-                                                                num_labels=numclasses,
-                                                            )
+        model = AutoModelForSequenceClassification.from_pretrained(
+            model_original_name,
+            output_hidden_states=False,
+            output_attentions=False,
+            num_labels=numclasses,
+        )
     else:
         if(modelname == 'bert-nonpretrained'):
             config = BertConfig()

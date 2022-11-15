@@ -21,9 +21,17 @@ random.seed(SEED)
 np.random.seed(SEED)
 torch.manual_seed(SEED)
 
+# Task (can be snli or amazon)
 task = 'amazon'
-count = '500k'
-typ = 'straight'
+
+# Type (can be straight or sort or shuffle)
+typ = 'shuffle'
+
+# Hyper parameters
+if(task == 'amazon'):
+    count = '500k'
+else:
+    count = '1000k'
 layers = 12
 hiddendim = 768
 heads = 12
@@ -32,8 +40,11 @@ min_word_freq = 2
 
 save_path = 'deberta_' + task + '_'+ count + '_' + typ + '_' + str(heads) + '_' + str(layers) + '_' + str(hiddendim) + "/"
 
+# Path to save the pre-trained model
 if(os.path.exists(save_path) == False):
     os.mkdir(save_path)
+
+# Load the training files
 paths = 'data/' + task + '/' + task + '_train_data_' + count + '_' + typ + '.txt'
 
 tokenizer = ByteLevelBPETokenizer()
@@ -44,6 +55,8 @@ tokenizer.train(files=[paths], vocab_size=52000, min_frequency=min_word_freq, sp
     "<SEP>",
     "<UNK>",
 ])
+
+# Save the tokenizer to the path
 tokenizer.save_model(save_path)
 
 tokenizer = ByteLevelBPETokenizer(

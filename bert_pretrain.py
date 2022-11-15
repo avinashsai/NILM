@@ -19,9 +19,17 @@ random.seed(SEED)
 np.random.seed(SEED)
 torch.manual_seed(SEED)
 
+# Task (can be snli or amazon)
 task = 'amazon'
-count = '500k'
+
+# Type (can be straight or sort or shuffle)
 typ = 'shuffle'
+
+# Hyper parameters
+if(task == 'amazon'):
+    count = '500k'
+else:
+    count = '1000k'
 layers = 12
 hiddendim = 768
 heads = 12
@@ -31,23 +39,32 @@ min_word_freq = 2
 numepochs = 5
 save_path = 'bert_' + task + '_'+ count + '_' + typ + '_' + str(heads) + '_' + str(layers) + '_' + str(hiddendim)
 
+# Path to save the pre-trained model
 if(os.path.exists(save_path) == False):
     os.mkdir(save_path)
+
+# Load the training files
 paths = 'data/' + task + '/' + task + '_train_data_' + count + '_' + typ + '.txt'
-tokenizer = BertWordPieceTokenizer(unk_token = "[UNK]",
-									sep_token = "[SEP]",
-									cls_token = "[CLS]",
-									pad_token = "[PAD]",
-									mask_token = "[MASK]")
+
+tokenizer = BertWordPieceTokenizer(
+    unk_token = "[UNK]",
+    sep_token = "[SEP]",
+    cls_token = "[CLS]",
+    pad_token = "[PAD]",
+    mask_token = "[MASK]"
+)
 
 tokenizer.train(files=paths, vocab_size=31000, min_frequency=min_word_freq)
 
+# Save the tokenizer to the path
 tokenizer.save_model(save_path)
 
+# Load the tokenizer from the path (sanity check)
 tokenizer = BertWordPieceTokenizer(
     save_path + "/" + "vocab.txt" 
 )
 
+# Maximum length of sentences for pretraining
 maxlength = 100
 tokenizer.enable_truncation(max_length=maxlength)
 
