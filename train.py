@@ -9,16 +9,16 @@ from utils import tokenize_sentences, compute_metrics, TaskDataset, load_portion
 
 def train_model(train_data, dev_data, test_data, task, max_sen_len, resultspath, _tokenizer, base_model):
 	""" Trains a model and saves the results in a csv file in the resultspath
-    Arguments:
-    train_data (Dataset): training data
+	Arguments:
+	train_data (Dataset): training data
 	dev_data (Dataset): validation data
 	test_data (Dataset): test data
-    task (str): task name
+	task (str): task name
 	max_sen_len (int): Maximum sentence length
 	resultspath (str): Path to save results
 	_tokenizer (Tokenizer): Model tokenizer
 	base_model (nn.Module): Model to train
-    """
+	"""
 	samples = []
 	trainaccuracies = []
 	trainf1scores = []
